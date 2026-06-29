@@ -1,0 +1,56 @@
+{
+  "lokasyonlar": [
+    {
+      "id": 1,
+      "baslik": "Kapadokya",
+      "sehir": "Nevşehir",
+      "kategori": "Doğa Harikası",
+      "koordinat": { "lat": 38.6431, "lng": 34.8289 },
+      "aciklama": "Peri bacaları, sıcak hava balonları ve yeraltı şehirleriyle dünyaca ünlü, eşsiz volkanik manzaralara sahip masalsı bir bölge. Gün doğumunda gökyüzünü süsleyen yüzlerce balon, bu coğrafyayı dünyanın en büyülü yerlerinden biri yapıyor.",
+      "resimler": [
+        "kapadokya_balon.jpg",
+        "kapadokya_peri_bacalari.jpg"
+      ],
+      "etiketler": ["balon", "peri bacaları", "tarih", "doğa"]
+    },
+    {
+      "id": 2,
+      "baslik": "Pamukkale",
+      "sehir": "Denizli",
+      "kategori": "Termal & UNESCO",
+      "koordinat": { "lat": 37.9202, "lng": 29.1207 },
+      "aciklama": "Bembeyaz traverten terasları ve termal havuzlarıyla tanınan UNESCO Dünya Mirası. Antik Hierapolis kalıntılarıyla iç içe, doğayla tarihin kesiştiği bir cennet.",
+      "resimler": [
+        "pamukkale_traverten.jpg",
+        "pamukkale_havuz.jpg"
+      ],
+      "etiketler": ["termal", "unesco", "beyaz", "şifa"]
+    },
+    {
+      "id": 3,
+      "baslik": "Uludağ",
+      "sehir": "Bursa",
+      "kategori": "Kış & Doğa",
+      "koordinat": { "lat": 40.0691, "lng": 29.2229 },
+      "aciklama": "Türkiye'nin en popüler kayak merkezi. Kışın karla kaplı zirveler, yazın ise yemyeşil ormanlar ve buzul gölleriyle dört mevsim seyahat edilebilecek bir doğa harikası.",
+      "resimler": [
+        "uludag_kar.jpg",
+        "uludag_orman.jpg"
+      ],
+      "etiketler": ["kar", "kayak", "dağ", "orman"]
+    },
+    {
+      "id": 4,
+      "baslik": "Ölüdeniz",
+      "sehir": "Muğla / Fethiye",
+      "kategori": "Sahil & Adrenalin",
+      "koordinat": { "lat": 36.5524, "lng": 29.1117 },
+      "aciklama": "Dünyanın en güzel plajları listesinde sürekli yer alan turkuaz lagün. Babadağ'dan yapılan yamaç paraşütü uçuşlarıyla Akdeniz'in en ikonik adrenalin durağı.",
+      "resimler": [
+        "oludeniz_plaj.jpg",
+        "oludeniz_yamac.jpg"
+      ],
+      "etiketler": ["plaj", "lagün", "yamaç paraşütü", "akdeniz"]
+    }
+  ]
+}

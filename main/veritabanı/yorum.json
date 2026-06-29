@@ -1,0 +1,44 @@
+{
+  "yorumlar": [
+    {
+      "id": 1,
+      "lokasyon_basligi": "Kapadokya",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Elif K.", "puan": 5, "tarih": "2025-03-14", "yorum": "Balon turu hayatımın en güzel deneyimiydi. Gün doğumunda gökyüzü tamamen büyülüydü!" },
+        { "kullanici": "Mert A.", "puan": 5, "tarih": "2025-02-09", "yorum": "Göreme'de mağara otelde kaldık, peri bacaları manzarası inanılmazdı. Mutlaka gidin." },
+        { "kullanici": "Selin Y.", "puan": 4, "tarih": "2025-01-22", "yorum": "Yeraltı şehri Derinkuyu çok etkileyici. Kalabalıktı ama değdi." }
+      ]
+    },
+    {
+      "id": 2,
+      "lokasyon_basligi": "Pamukkale",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Burak T.", "puan": 5, "tarih": "2025-04-02", "yorum": "Travertenler gerçek dışı görünüyor. Antik Hierapolis havuzunda yüzdük, harikaydı." },
+        { "kullanici": "Ayşe D.", "puan": 4, "tarih": "2025-03-18", "yorum": "Yalın ayak yürümek gerekiyor, biraz sert ama manzara her şeye değer." },
+        { "kullanici": "Can Ö.", "puan": 4, "tarih": "2025-02-27", "yorum": "Gün batımında gitmenizi tavsiye ederim, renkler muhteşem oluyor." }
+      ]
+    },
+    {
+      "id": 3,
+      "lokasyon_basligi": "Uludağ",
+      "ortalama_puan": 4.3,
+      "yorum_listesi": [
+        { "kullanici": "Deniz K.", "puan": 5, "tarih": "2025-01-15", "yorum": "Kayak pistleri harika, teleferik manzarası nefes kesici!" },
+        { "kullanici": "Zeynep H.", "puan": 4, "tarih": "2024-12-30", "yorum": "Hafta sonu çok kalabalık ama kar kalitesi çok iyiydi." },
+        { "kullanici": "Onur B.", "puan": 4, "tarih": "2024-12-12", "yorum": "Yazın yaylada kamp yaptık, çok huzurluydu. Her mevsim ayrı güzel." }
+      ]
+    },
+    {
+      "id": 4,
+      "lokasyon_basligi": "Ölüdeniz",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "İrem S.", "puan": 5, "tarih": "2025-05-21", "yorum": "Babadağ'dan yamaç paraşütü yaptım, hayatımın deneyimi. Lagünün üstünden uçmak inanılmaz." },
+        { "kullanici": "Kerem U.", "puan": 5, "tarih": "2025-05-10", "yorum": "Su o kadar berraktı ki dibe kadar görüyordunuz. Bir cennet parçası." },
+        { "kullanici": "Nazlı P.", "puan": 5, "tarih": "2025-04-28", "yorum": "Kelebekler Vadisi'ne tekne turu yaptık, kesinlikle kaçırmayın." }
+      ]
+    }
+  ]
+}
