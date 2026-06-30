@@ -4,10 +4,10 @@
       "id": 1,
       "baslik": "Kapadokya",
       "sehir": "Nevşehir",
-      "kategori": "Doğa Harikası & Tarih",
+      "kategori": "Doğa Harikası",
       "koordinat": { "lat": 38.6431, "lng": 34.8289 },
       "aciklama": "Peri bacaları, sıcak hava balonları ve yeraltı şehirleriyle dünyaca ünlü, eşsiz volkanik manzaralara sahip masalsı bir bölge. Gün doğumunda gökyüzünü süsleyen yüzlerce balon, bu coğrafyayı dünyanın en büyülü yerlerinden biri yapıyor. Göreme Açık Hava Müzesi, Derinkuyu ve Kaymaklı yeraltı şehirleri, Uçhisar Kalesi ve Ihlara Vadisi bölgenin tarihi ve coğrafi derinliğini gözler önüne serer.",
-      "en_iyi_zaman": "İlkbahar (Nisan-Haziran) ve Sonbahar (Eylül-Kasım)",
+      "en_iyi_zaman": "İlkbahar (Nisan-Jun) ve Sonbahar (Eylül-Kasım)",
       "ziyaret_saatleri": "24 Saat Açık (Ören yerleri ve müzeler: 08:00 - 19:00)",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "Testi Kebabı, Nevşehir Tavası, Köftür",
@@ -19,12 +19,12 @@
     },
     {
       "id": 2,
-      "baslik": "Pamukkale",
+      "baslik": "Pamukkale Travertenleri",
       "sehir": "Denizli",
-      "kategori": "Termal & UNESCO",
+      "kategori": "Doğa Harikası",
       "koordinat": { "lat": 37.9202, "lng": 29.1207 },
       "aciklama": "Bembeyaz traverten terasları ve kalsiyum zengini termal havuzlarıyla tanınan UNESCO Dünya Mirası. Hemen arkasında yer alan Antik Hierapolis kenti, şifalı sularıyla bilinen Kleopatra Havuzu (Antik Havuz), devasa amfitiyatrosu ve anıtsal kapılarıyla doğayla tarihin kesiştiği benzersiz bir şifa merkezidir.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar ayları (Sıcaklığın dengeli olduğu dönemler)",
+      "en_iyi_zaman": "İlkbahar ve Sonbahar ayları",
       "ziyaret_saatleri": "06:30 - 23:00 (Yaz dönemi gece müzeciliği dahil)",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "Denizli Kebabı, Çaput Aşı, Kale Biberi Tatarı",
@@ -36,13 +36,13 @@
     },
     {
       "id": 3,
-      "baslik": "Uludağ",
+      "baslik": "Uludağ Milli Parkı",
       "sehir": "Bursa",
-      "kategori": "Kış & Doğa",
+      "kategori": "Kış Turizmi",
       "koordinat": { "lat": 40.0691, "lng": 29.2229 },
       "aciklama": "Türkiye'nin en popüler ve köklü kış sporları merkezi. Kışın karla kaplı zirveleri, her seviyeye uygun modern kayak pistleri ve telesiyej hatları ile öne çıkarken; yazın ve bahar aylarında ise yemyeşil milli park alanları, trekking rotaları, kamp alanları ve buzul gölleriyle dört mevsim seyahat edilebilecek bir doğa kaçış noktasıdır.",
       "en_iyi_zaman": "Kış Sporları İçin: Aralık - Mart | Doğa Yürüyüşleri İçin: Haziran - Eylül",
-      "ziyaret_saatleri": "24 Saat Açık (Milli Park Girişi ve Oteller Bölgesi)",
+      "ziyaret_saatleri": "24 Saat Açık",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "İskender Kebap, Kestane Şekeri, Dağ Çileği",
       "resimler": [
@@ -55,11 +55,11 @@
       "id": 4,
       "baslik": "Ölüdeniz",
       "sehir": "Muğla / Fethiye",
-      "kategori": "Sahil & Adrenalin",
+      "kategori": "Yaz Turizmi",
       "koordinat": { "lat": 36.5524, "lng": 29.1117 },
       "aciklama": "Dünyanın en güzel plajları listesinde sürekli ilk sıralarda yer alan, en fırtınalı günlerde bile dalgasız ve cam gibi turkuaz lagünüyle ünlü saklı bir cennet. Hemen yanı başındaki Babadağ'dan yapılan yamaç paraşütü uçuşlarıyla adrenalin tutkunlarının, tekne turlarıyla ulaşılan Kelebekler Vadisi ve Kabak Koyu'na yakınlığıyla da doğaseverlerin Akdeniz'deki en ikonik durağıdır.",
-      "en_iyi_zaman": "Haziran - Ekim (Deniz suyu sıcaklığının en ideal olduğu dönem)",
-      "ziyaret_saatleri": "08:00 - 20:00 (Tabiat Parkı ve Plaj Girişi)",
+      "en_iyi_zaman": "Haziran - Ekim",
+      "ziyaret_saatleri": "08:00 - 20:00",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "Mavi Yengeç, Deniz Ürünleri Meze Çeşitleri, Babadağ Keşkeği",
       "resimler": [
@@ -72,11 +72,11 @@
       "id": 5,
       "baslik": "Efes Antik Kenti",
       "sehir": "İzmir / Selçuk",
-      "kategori": "Tarih & Arkeoloji",
+      "kategori": "Tarihi Yer",
       "koordinat": { "lat": 37.9409, "lng": 27.3415 },
-      "aciklama": "Antik dünyanın en önemli ticaret, kültür ve din merkezlerinden biri olan Efes, UNESCO Dünya Mirası listesindedir. Devasa ve büyüleyici Celsus Kütüphanesi, 25 bin kişilik dev antik tiyatrosu, Hadrian Tapınağı ve zengin Roma yaşantısını gösteren Yamaç Evler'i ile ziyaretçilerini binlerce yıl öncesine, Helenistik ve Roma İmparatorluğu'nun en ihtişamlı dönemlerine götürür.",
-      "en_iyi_zaman": "Nisan - Mayıs ve Eylül - Ekim (Yaz sıcağından kaçınmak için)",
-      "ziyaret_saatleri": "08:00 - 20:00 (Yaz aylarında gece aydınlatması ile açık kalabilmektedir)",
+      "aciklama": "Antik dünyanın en önemli ticaret, culture ve din merkezlerinden biri olan Efes, UNESCO Dünya Mirası listesindedir. Devasa ve büyüleyici Celsus Kütüphanesi, 25 bin kişilik dev antik tiyatrosu, Hadrian Tapınağı ve zengin Roma yaşantısını gösteren Yamaç Evler'i ile ziyaretçilerini binlerce yıl öncesine, Helenistik ve Roma İmparatorluğu'nun en ihtişamlı dönemlerine götürür.",
+      "en_iyi_zaman": "Nisan - Mayıs ve Eylül - Ekim",
+      "ziyaret_saatleri": "08:00 - 20:00",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "Çöp Şiş, Selçuk Gözlemesi, Şirince Şarabı",
       "resimler": [
@@ -89,13 +89,13 @@
       "id": 6,
       "baslik": "Sümela Manastırı",
       "sehir": "Trabzon / Maçka",
-      "kategori": "Kültür & Doğa",
+      "kategori": "Tarihi Yer",
       "koordinat": { "lat": 40.6901, "lng": 39.6583 },
       "aciklama": "Karadağ'ın dik ve sarp yamacında, yerden yaklaşık 300 metre yükseklikte kayalar oyularak inşa edilmiş tarihi bir Rum Ortodoks manastır kompleksi. Altındere Vadisi'nin sisli, gür ormanlarla kaplı yemyeşil doğasıyla bütünleşen bu yapı; içindeki eşsiz İncil sahnelerini betimleyen freskleri, kutsal ayazması, kütüphanesi ve gizemli mimarisiyle Karadeniz'in en mistik noktasıdır.",
-      "en_iyi_zaman": "Mayıs - Eylül (Yağışın nispeten az ve havanın açık olduğu aylar)",
+      "en_iyi_zaman": "Mayıs - Eylül",
       "ziyaret_saatleri": "08:00 - 19:00",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Akçaabat Köftesi, Kuymak / Mıhlama, Hamsili Pilav, Laz Böreği",
+      "one_cikan_lezzet": "Akçaabat Köftesi, Kuymak, Hamsili Pilav, Laz Böreği",
       "resimler": [
         "sumela_manastir.jpg",
         "sumela_vadi.jpg"
@@ -104,13 +104,13 @@
     },
     {
       "id": 7,
-      "baslik": "Nemrut Dağı",
+      "baslik": "Nemrut Dağı Milli Parkı",
       "sehir": "Adıyaman / Kahta",
-      "kategori": "Tarih & UNESCO",
+      "kategori": "Tarihi Yer",
       "koordinat": { "lat": 37.9794, "lng": 38.6533 },
-      "aciklama": "Kommagene Kralı I. Antiochos'un tanrılara ve atalarına minnettarlığını göstermek ve ölümsüzleşmek için 2150 metre yükseklikteki Nemrut Dağı zirvesine yaptırdığı devasa taş heykeller ve tümülüs. Dünyada gün doğumu ve gün batımının en etkileyici, dramatik sahnelerle izlendiği, 'Tanrıların Tahtı' olarak anılan benzersiz bir antik açık hava tapınağıdır.",
-      "en_iyi_zaman": "Mayıs - Ekim (Kışın yollar kar nedeniyle kapanabilmektedir)",
-      "ziyaret_saatleri": "04:00 - 20:00 (Gün doğumu turları için sabaha karşı açılır)",
+      "aciklama": "Kommagene Kralı I. Antiochos'un tanrılara ve atalarına minnettarlığını göstermek ve ölümsüzleşmek için 2150 metre yükseklikteki Nemrut Dağı zirvesine yaptırdığı devasa taş heykeller ve tümülüs. Dünyada gün doğumu ve gün batımının en etkileyici izlendiği, 'Tanrıların Tahtı' olarak anılan benzersiz bir antik açık hava tapınağıdır.",
+      "en_iyi_zaman": "Mayıs - Ekim",
+      "ziyaret_saatleri": "04:00 - 20:00",
       "giris_ucretli_mi": true,
       "one_cikan_lezzet": "Adıyaman Çiğ Köftesi, Besni Tavası, Hitit Köftesi",
       "resimler": [
@@ -121,15 +121,15 @@
     },
     {
       "id": 8,
-      "baslik": "Kaş Kaputaş Plajı",
+      "baslik": "Kaputaş Plajı",
       "sehir": "Antalya / Kaş",
-      "kategori": "Sahil & Doğa",
+      "kategori": "Yaz Turizmi",
       "koordinat": { "lat": 36.2289, "lng": 29.4492 },
       "aciklama": "Kalkan ile Kaş arasındaki dik sahil yolu üzerinde, derin bir kanyon ağzında yer alan ve merdivenlerle inilen dünyaca ünlü bir cep plajı. Yer altından süzülerek akan serin kaynak sularının denizle buluşması sayesinde dalgalı, serin ve turkuazın en büyüleyici neon tonlarına sahip olan Kaputaş, Akdeniz'in en fotojenik koylarından biridir.",
-      "en_iyi_zaman": "Haziran - Eylül (Erken saatlerde dalgasız ve sakin olur)",
-      "ziyaret_saatleri": "08:00 - 19:00 (Plaj tesis çalışma saatleri)",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:00 - 19:00",
       "giris_ucretli_mi": false,
-      "one_cikan_lezzet": "Yanık Dondurma, Antalya Usulü Taratorlu Piyaz, Tahinli Kabak Tatlısı",
+      "one_cikan_lezzet": "Yanık Dondurma, Antalya Usulü Taratorlu Piyaz",
       "resimler": [
         "kaputas_sahil.jpg",
         "kaputas_kanyon.jpg"
@@ -138,32 +138,15 @@
     },
     {
       "id": 9,
-      "baslik": "Tarihi Mardin Evleri",
-      "sehir": "Mardin",
-      "kategori": "Kültür & Mimari",
-      "koordinat": { "lat": 37.3126, "lng": 40.7351 },
-      "aciklama": "Mezopotamya ovasına tepeden bakan, sarı kalker taşından yapılmış, birbirinin ışığını kapatmayan geleneksel teraslı taş evleriyle ünlü sit alanı şehir. Dar sokakları (abbara), tarihi Deyrulzafaran Manastırı, Kasımiye Medresesi ve Ulu Camii ile adeta bir açık hava müzesi olan kent, çok kültürlü yapısıyla büyülü bir Mezopotamya masalı sunar.",
-      "en_iyi_zaman": "İlkbahar (Eylül-Kasım) ve Sonbahar (Mart-Mayıs)",
-      "ziyaret_saatleri": "24 Saat Açık (Medrese ve Manastırlar: 08:30 - 17:30)",
-      "giris_ucretli_mi": false,
-      "one_cikan_lezzet": "Mardin Usulü İçli Köfte (İrok), Sembusek, Süryani Çöreği, Mırra",
-      "resimler": [
-        "mardin_tas_evler.jpg",
-        "mardin_sokaklari.jpg"
-      ],
-      "etiketler": ["mimari", "taş evler", "kültür", "mezopotamya", "tarih", "medrese", "manastır", "inanç", "eski mardin"]
-    },
-    {
-      "id": 10,
-      "baslik": "Göbeklitepe",
+      "baslik": "Göbeklitepe Tapınak Alanı",
       "sehir": "Şanlıurfa",
-      "kategori": "Tarih & Arkeoloji",
+      "kategori": "Tarihi Yer",
       "koordinat": { "lat": 37.2232, "lng": 38.9224 },
-      "aciklama": "Tarihin sıfır noktası olarak kabul edilen, insanlık tarafından inşa edilmiş bilinen en eski kült yapılar topluluğu. Günümüzden yaklaşık 12.000 yıl öncesine dayanan, üzerlerinde gizemli hayvan figürleri ve semboller barındıran T biçimindeki devasa kireçtaşı sütunları, yerleşik hayata geçiş ve dinler tarihi hakkındaki tüm ezberleri bozarak UNESCO Dünya Mirası listesinde yerini almıştır.",
-      "en_iyi_zaman": "İlkbahar (Nisan-Mayıs) ve Sonbahar (Eylül-Ekim)",
+      "aciklama": "Tarihin sıfır noktası olarak kabul edilen, insanlık tarafından inşa edilmiş bilinen en eski kült yapılar topluluğu. Günümüzden yaklaşık 12.000 yıl öncesine dayanan, üzerlerinde gizemli hayvan figürleri barındıran T biçimindeki devasa kireçtaşı sütunları, yerleşik hayata geçiş ve dinler tarihi hakkındaki tüm ezberleri bozarak UNESCO Dünya Mirası listesinde yerini almıştır.",
+      "en_iyi_zaman": "Nisan-Mayıs ve Eylül-Ekim",
       "ziyaret_saatleri": "08:30 - 19:00",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Urfa Kebabı, Çiğ Köfte, Şıllık Tatlısı, Mırra",
+      "one_cikan_lezzet": "Urfa Kebabı, Çiğ Köfte, Şıllık Tatlısı",
       "resimler": [
         "gobeklitepe_dikilitas.jpg",
         "gobeklitepe_genel.jpg"
@@ -171,55 +154,701 @@
       "etiketler": ["arkeoloji", "tarih", "unesco", "neolitik", "tarihin sıfır noktası", "urfa", "tapınak", "gizem"]
     },
     {
-      "id": 11,
-      "baslik": "Safranbolu Evleri",
-      "sehir": "Karabük",
-      "kategori": "Tarih & UNESCO",
-      "koordinat": { "lat": 41.2449, "lng": 32.6942 },
-      "aciklama": "Osmanlı kent mimarisini, geleneksel yaşam tarzını ve şehir planlamasını günümüze kadar kusursuz bir şekilde korumuş olan UNESCO Dünya Mirası kenti. Ahşap ve taş işçiliğinin en zarif örneklerini sergileyen tarihi konakları, Arnavut kaldırımlı dar sokakları, eski lonca çarşıları (Yemeniciler) ve tarihi demirciler çarşısı ile ziyaretçilerini zamanda yolculuğa çıkarır.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar ayları",
-      "ziyaret_saatleri": "24 Saat Açık (Müze konaklar: 09:00 - 18:00)",
-      "giris_ucretli_mi": false,
-      "one_cikan_lezzet": "Safranbolu Lokumu, Bükme Pide, Peruhi, Safranlı Zerde",
+      "id": 10,
+      "baslik": "Topkapı Sarayı Müzesi",
+      "sehir": "İstanbul",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 41.0115, "lng": 28.9833 },
+      "aciklama": "Osmanlı İmparatorluğu'nun 400 yıl boyunca idare merkezi ve sultanların resmi ikametgahı olmuş ihtişamlı saray kompleksi. Mukaddes Emanetler, Harem dairesi, Kaşıkçı Elması ve Topkapı Hançeri gibi paha biçilemez hazinelere ev sahipliği yapar.",
+      "en_iyi_zaman": "Tüm Yıl",
+      "ziyaret_saatleri": "09:00 - 18:00 (Pazartesi Kapalı)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Sultan Ahmet Köftesi, Osmanlı Saray Şerbeti",
       "resimler": [
-        "safranbolu_konak.jpg",
-        "safranbolu_carsisi.jpg"
+        "topkapi_saray.jpg",
+        "topkapi_harem.jpg"
       ],
-      "etiketler": ["osmanlı", "mimari", "konak", "unesco", "tarih", "kültür", "çarşı", "safran"]
+      "etiketler": ["osmanlı", "saray", "müze", "hazine", "padişah", "tarih", "istanbul"]
+    },
+    {
+      "id": 11,
+      "baslik": "Ayasofya-i Kebir Cami-i Şerifi",
+      "sehir": "İstanbul",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 41.0085, "lng": 28.9799 },
+      "aciklama": "Bizans İmparatoru Jüstinyen tarafından 6. yüzyılda yaptırılan, mimarlık tarihinin en büyük başyapıtlarından biri. Asırlarca katedral, ardından cami, müze ve yeniden cami olarak kullanılan yapı, devasa kubbesi ve Hristiyan mozaikleri ile İslami hat sanatlarını bir arada barındırır.",
+      "en_iyi_zaman": "Tüm Yıl",
+      "ziyaret_saatleri": "09:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Süleymaniye Kuru Fasulyesi, Demirhindi Şerbeti",
+      "resimler": [
+        "ayasofya_kubbe.jpg",
+        "ayasofya_dis.jpg"
+      ],
+      "etiketler": ["bizans", "cami", "kilise", "tarih", "mimari", "istanbul", "unesco"]
     },
     {
       "id": 12,
-      "baslik": "Akdamar Adası ve Kilisesi",
-      "sehir": "Van",
-      "kategori": "Doğa & İnanç Turizmi",
-      "koordinat": { "lat": 38.3411, "lng": 43.0361 },
-      "aciklama": "Van Gölü'nün göz alıcı mavi suları üzerinde yükselen, ilkbaharda çiçek açan badem ağaçlarıyla görsel şölene dönüşen ikonik bir ada. Ada üzerinde yer alan 10. yüzyıldan kalma Kutsal Haç Ermeni Kilisesi, dış cephesindeki Tevrat ve İncil hikayelerini anlatan taş kabartma işçilikleriyle Orta Çağ Ermeni sanatının dünyadaki en nadide örneklerinden biridir.",
-      "en_iyi_zaman": "İlkbahar (Özellikle Badem Çiçeklerinin Açtığı Nisan-Mayıs Ayları)",
-      "ziyaret_saatleri": "08:00 - 19:00 (Adaya giden motorların saatlerine bağlıdır)",
+      "baslik": "Troya Antik Kenti",
+      "sehir": "Çanakkale",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 39.9574, "lng": 26.2386 },
+      "aciklama": "Homedos'un İlyada destanına konu olan, 4000 yıllık geçmişe sahip efsanevi savaşların beşiği. Dokuz farklı yerleşim katmanına ev sahipliği yapan antik kent, sembolik Troya Atı ve modern Troya Müzesi ile arkeoloji dünyasının en önemli merkezlerindendir.",
+      "en_iyi_zaman": "Mayıs - Eylül",
+      "ziyaret_saatleri": "08:30 - 20:00",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Van Kahvaltısı, Van Balığı (İnci Kefali) Tandır",
+      "one_cikan_lezzet": "Peynir Helvası, Sardalya Buğulama",
+      "resimler": [
+        "troya_ati.jpg",
+        "troya_surlari.jpg"
+      ],
+      "etiketler": ["tarih", "efsane", "savaş", "arkeoloji", "homeros", "unesco", "müze"]
+    },
+    {
+      "id": 13,
+      "baslik": "Pergamon (Bergama) Antik Kenti",
+      "sehir": "İzmir / Bergama",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 39.1322, "lng": 27.1841 },
+      "aciklama": "Antik dünyanın en dik tiyatrosuna, ilk tıp merkezlerinden biri olan Asklepion'a ve muazzam bir kütüphaneye sahip parşömenin keşfedildiği krallık merkezi. Akropol alanı, şehre hakim dik bir tepede tüm ihtişamıyla yükselir.",
+      "en_iyi_zaman": "Nisan - Haziran ve Eylül - Ekim",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Bergama Tulum Peyniri, Çığırtma",
+      "resimler": [
+        "bergama_tiyatro.jpg",
+        "bergama_akropol.jpg"
+      ],
+      "etiketler": ["antik kent", "tiyatro", "tıp", "parşömen", "tarih", "roma", "akropol"]
+    },
+    {
+      "id": 14,
+      "baslik": "Aphrodisias Antik Kenti",
+      "sehir": "Aydın / Karacasu",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.7088, "lng": 28.7236 },
+      "aciklama": "Aşk ve güzellik tanrıçası Afrodit'e adanmış, antik çağın en iyi korunmuş stadyumuna ve heykel okuluna sahip UNESCO mirası kent. Muazzam mermer rölyefleri ve Sebasteion tapınağıyla büyüleyicidir.",
+      "en_iyi_zaman": "Bahar Ayları",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Karacasu Pidesi, Keşkek",
+      "resimler": [
+        "aphrodisias_stadyum.jpg",
+        "aphrodisias_tapinak.jpg"
+      ],
+      "etiketler": ["mermer", "heykel", "afrodit", "stadyum", "roma", "tarih", "unesco"]
+    },
+    {
+      "id": 15,
+      "baslik": "Hattuşa Antik Kenti",
+      "sehir": "Çorum / Boğazkale",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 40.0194, "lng": 34.6154 },
+      "aciklama": "Anadolu'nun en eski süper güçlerinden biri olan Hitit İmparatorluğu'nun bin tanrılı başkenti. Aslanlı Kapı, Kral Kapı ve Yazılıkaya Açık Hava Tapınağı ile tarihin ilk yazılı barış antlaşması Kadeş'in yapıldığı yerdir.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Çorum Mantısı, Iskilip Dolması",
+      "resimler": [
+        "hattusa_kapi.jpg",
+        "hattusa_yazilikaya.jpg"
+      ],
+      "etiketler": ["hitit", "tarih", "başkent", "kadeş", "tablet", "arkeoloji", "unesco"]
+    },
+    {
+      "id": 16,
+      "baslik": "Ani Arkeolojik Alanı",
+      "sehir": "Kars",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 40.5108, "lng": 43.5728 },
+      "aciklama": "Eski İpek Yolu üzerinde yer alan, '1001 Kilise Şehri' olarak bilinen Orta Çağ Ermeni ve Selçuklu metropolü. Türkiye-Ermenistan sınırını çizen Arpaçay nehrinin kenarında, görkemli surları ve tarihi katedralleriyle ıssız bir krallıktır.",
+      "en_iyi_zaman": "Mayıs - Ağustos ve Ocak - Şubat (Karlı manzara için)",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Kars Kaz Eti, Piti Kebabı, Kars Kaşarı",
+      "resimler": [
+        "ani_katedral.jpg",
+        "ani_surlar.jpg"
+      ],
+      "etiketler": ["ipek yolu", "selçuklu", "ermeni", "kilise", "tarih", "sınır", "kars", "unesco"]
+    },
+    {
+      "id": 17,
+      "baslik": "İshak Paşa Sarayı",
+      "sehir": "Ağrı / Doğubayazıt",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 39.5204, "lng": 44.1294 },
+      "aciklama": "Osmanlı, Selçuklu ve Fars mimari stillerinin harmanlandığı, sarp kayalıklar üzerine kurulu 18. yüzyıl şaheseri ovalık saray. Merkezi ısıtma sistemine sahip ilk saray yapılarından biri olup, görkemli kapısı ile Ağrı Dağı yakınlarında parlar.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Abdigör Köftesi, Sac Kavurma",
+      "resimler": [
+        "ishakpasa_genel.jpg",
+        "ishakpasa_kapi.jpg"
+      ],
+      "etiketler": ["saray", "osmanlı", "mimari", "doğubayazıt", "tarih", "taş işçiliği"]
+    },
+    {
+      "id": 18,
+      "baslik": "Aspendos Antik Tiyatrosu",
+      "sehir": "Antalya / Serik",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 36.9392, "lng": 31.1736 },
+      "aciklama": "Romalı mimar Zenon tarafından inşa edilen, günümüze sahne binasıyla birlikte eksiksiz ve en iyi korunmuş şekilde ulaşan dünyaca ünlü Roma antik tiyatrosu. Harika akustiği sayesinde hala uluslararası opera ve bale festivallerine ev sahipliği yapmaktadır.",
+      "en_iyi_zaman": "Mayıs - Ekim",
+      "ziyaret_saatleri": "08:00 - 20:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Serik Köftesi, Piyaz",
+      "resimler": [
+        "aspendos_tiyatro.jpg",
+        "aspendos_su_kemerleri.jpg"
+      ],
+      "etiketler": ["tiyatro", "roma", "akustik", "antalya", "tarih", "festival"]
+    },
+    {
+      "id": 19,
+      "baslik": "Myra Antik Kenti ve Noel Baba Kilisesi",
+      "sehir": "Antalya / Demre",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 36.2592, "lng": 29.9847 },
+      "aciklama": "Likya dönemine ait kaya mezarları ve devasa Roma tiyatrosu ile ünlü Myra şehri ve hemen yakınındaki gerçek 'Noel Baba' olan Aziz Nikolaos'un piskoposluk yaptığı, lahdinin bulunduğu tarihi kilise kompleksi.",
+      "en_iyi_zaman": "Nisan - Ekim",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Mavi Yengeç, Demre Portakalı",
+      "resimler": [
+        "myra_kaya_mezarlari.jpg",
+        "noel_baba_kilisesi.jpg"
+      ],
+      "etiketler": ["likya", "kaya mezarı", "noel baba", "aziz nikolaos", "tarih", "kilise"]
+    },
+    {
+      "id": 20,
+      "baslik": "Xanthos - Letoon Antik Kentleri",
+      "sehir": "Antalya - Muğla Sınırı",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 36.3564, "lng": 29.3182 },
+      "aciklama": "Likya Birliği'nin idari ve dini başkentliğini yapmış, bağımsızlık uğruna halkının iki kez toplu intihar ettiği hüzünlü ve görkemli şehirler. Likya dikme mezarları ve yazıtlarıyla UNESCO koruması altındadır.",
+      "en_iyi_zaman": "Bahar Ayları",
+      "ziyaret_saatleri": "08:30 - 18:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Fethiye Tandırı, Deniz Börülcesi",
+      "resimler": [
+        "xanthos_anit.jpg",
+        "letoon_tapinak.jpg"
+      ],
+      "etiketler": ["likya", "unesco", "başkent", "anıt mezar", "tarih", "mitoloji"]
+    },
+    {
+      "id": 21,
+      "baslik": "Sardes Antik Kenti",
+      "sehir": "Manisa / Salihli",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 38.4886, "lng": 28.0402 },
+      "aciklama": "Tarihte ilk parayı basan zengin Lidya Krallığı'nın efsanevi başkenti. Paranın basıldığı altın arıtma evleri, muazzam Artemis Tapınağı ve antik çağın en görkemli sinagog yapılarından biri burada yer alır.",
+      "en_iyi_zaman": "Nisan - Haziran",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Salihli Odun Köftesi",
+      "resimler": [
+        "sardes_jimnazyum.jpg",
+        "sardes_sinagog.jpg"
+      ],
+      "etiketler": ["lidya", "para", "altın", "sinagog", "artemis", "tarih", "başkent"]
+    },
+    {
+      "id": 22,
+      "baslik": "Gordion Antik Kenti",
+      "sehir": "Ankara / Polatlı",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 39.6508, "lng": 31.9772 },
+      "aciklama": "Frigya Krallığı'nın başkenti, ünlü Kral Midas'ın yaşadığı ve Büyük İskender'in kördüğümü kestiği efsanevi şehir. Dünyanın en büyük ahşap mezar odasına sahip devasa Midas Tümülüsü buradadır.",
+      "en_iyi_zaman": "Bahar ve Yaz Ayları",
+      "ziyaret_saatleri": "08:30 - 17:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Ankara Tavası, Polatlı Kavunu",
+      "resimler": [
+        "gordion_tumulus.jpg",
+        "gordion_muze.jpg"
+      ],
+      "etiketler": ["frig", "midas", "tümülüs", "kördüğüm", "ankara", "tarih", "unesco"]
+    },
+    {
+      "id": 23,
+      "baslik": "Dara Antik Kenti",
+      "sehir": "Mardin",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.1755, "lng": 40.9536 },
+      "aciklama": "Doğu Roma İmparatoru Anastasius tarafından Sasanilere karşı askeri bir garnizon şehri olarak kurulan, kaya içine oyulmuş devasa su sarnıçları, surları ve zindanları sebebiyle 'Mezopotamya'nın Efes'i' denilen antik kent.",
+      "en_iyi_zaman": "Nisan - Mayıs ve Ekim - Kasım",
+      "ziyaret_saatleri": "08:30 - 18:30",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Mardin Kaburga Dolması, Süryani Çöreği",
+      "resimler": [
+        "dara_sarnic.jpg",
+        "dara_kaya_mezari.jpg"
+      ],
+      "etiketler": ["roma", "sarnıç", "zindan", "garnizon", "mardin", "mezopotamya", "tarih"]
+    },
+    {
+      "id": 24,
+      "baslik": "Sagalassos Antik Kenti",
+      "sehir": "Burdur / Ağlasun",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.6775, "lng": 30.5286 },
+      "aciklama": "Toros dağlarının 1750 metre yüksekliğinde yer alan, aşkların ve imparatorların şehri. Binlerce yıldır kesintisiz olarak şırıl şırıl akan büyüleyici Antoninler Çeşmesi ve devasa Roma hamamları ile bulutların üzerindeki antik kenttir.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Burdur Şiş, Ceviz Ezmesi",
+      "resimler": [
+        "sagalassos_cesme.jpg",
+        "sagalassos_tiyatro.jpg"
+      ],
+      "etiketler": ["dağ", "çeşme", "roma", "psidya", "burdur", "tarih", "arkeoloji"]
+    },
+    {
+      "id": 25,
+      "baslik": "Aizanoi Antik Kenti",
+      "sehir": "Kütahya / Çavdarhisar",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 39.2014, "lng": 29.7042 },
+      "aciklama": "Dünyanın ilk borsasına (Macellum), Anadolu'nun en iyi korunmuş Zeus Tapınağı'na ve benzersiz stadyum-tiyatro kompleksine ev sahipliği yapan saklı ama muazzam bir Roma şehri.",
+      "en_iyi_zaman": "Mayıs - Eylül",
+      "ziyaret_saatleri": "09:00 - 18:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Kütahya Cimciği, Tos Tos Çorbası",
+      "resimler": [
+        "aizanoi_zeus.jpg",
+        "aizanoi_borsa.jpg"
+      ],
+      "etiketler": ["zeus", "borsa", "roma", "tapınak", "stadyum", "tarih", "kütahya"]
+    },
+    {
+      "id": 26,
+      "baslik": "Milet Antik Kenti",
+      "sehir": "Aydın / Didim",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.5302, "lng": 27.2764 },
+      "aciklama": "Felsefe, bilim ve rasyonalizmin doğduğu şehir. Thales, Anaximander ve Hekataios gibi düşünürlerin vatanı olan Milet, devasa antik tiyatrosu ve Faustina Hamamı ile bilinir.",
+      "en_iyi_zaman": "Bahar Ayları",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Didim Saç Kavurması, Deniz Ürünleri",
+      "resimler": [
+        "milet_tiyatro.jpg",
+        "faustina_hamami.jpg"
+      ],
+      "etiketler": ["felsefe", "thales", "tiyatro", "roma", "iyonya", "tarih"]
+    },
+    {
+      "id": 27,
+      "baslik": "Priene Antik Kenti",
+      "sehir": "Aydın / Söke",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.6594, "lng": 27.2975 },
+      "aciklama": "Samsun Dağı'nın dik yamacında, ızgara planlı şehir mimarisinin (Hippodamos planı) dünyadaki en net örneği. Athena Tapınağı'nın dev sütunları ve çam ormanları içindeki tiyatrosu ile estetik harikasıdır.",
+      "en_iyi_zaman": "Nisan - Haziran",
+      "ziyaret_saatleri": "08:30 - 18:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Söke Pidesi, Kulak Çorbası",
+      "resimler": [
+        "priene_athena.jpg",
+        "priene_tiyatro.jpg"
+      ],
+      "etiketler": ["mimari", "athena", "iyonya", "çam ormanı", "izgara plan", "tarih"]
+    },
+    {
+      "id": 28,
+      "baslik": "Knidos Antik Kenti",
+      "sehir": "Muğla / Datça",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 36.6858, "lng": 27.3752 },
+      "aciklama": "Ege ile Akdeniz'in kesiştiği Datça yarımadasının en ucunda yer alan bilim, sanat ve deniz ticaret kenti. Çıplak Afrodit Heykeli'nin kaidesi ve antik güneş saatiyle ünlüdür.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:30 - 19:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Datça Bademi, Garaville, Bademli Levrek",
+      "resimler": [
+        "knidos_liman.jpg",
+        "knidos_tiyatro.jpg"
+      ],
+      "etiketler": ["liman", "ege", "akdeniz", "datça", "afrodit", "güneş saati", "tarih"]
+    },
+    {
+      "id": 29,
+      "baslik": "Stratonikeia Antik Kenti",
+      "sehir": "Muğla / Yatağan",
+      "kategori": "Tarihi Yer",
+      "koordinat": { "lat": 37.3122, "lng": 28.0375 },
+      "aciklama": "Dünyanın en büyük mermer kentlerinden biri olan ve Helenistik, Roma, Bizans, Beylikler ve Osmanlı dönemine ait yapıların bir arada yaşadığı 'Gladyatörler Şehri'.",
+      "en_iyi_zaman": "Bahar Ayları",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Yatağan Keşkeği, Muğla Saraylısı",
+      "resimler": [
+        "stratonikeia_gymnasium.jpg",
+        "stratonikeia_osmanli.jpg"
+      ],
+      "etiketler": ["gladyatör", "mermer", "osmanlı", "karya", "köy", "tarih"]
+    },
+    {
+      "id": 30,
+      "baslik": "Phaselis Antik Kenti ve Koyu",
+      "sehir": "Antalya / Kemer",
+      "kategori": "Turistik Doğa & Tarih",
+      "koordinat": { "lat": 36.5233, "lng": 30.5522 },
+      "aciklama": "Milli park statüsündeki yemyeşil çam ormanlarının, tarihi su kemerlerinin, antik caddelerin ve korunaklı üç sakin koyun iç içe geçtiği Likya deniz ticaret kenti.",
+      "en_iyi_zaman": "Haziran - Ekim",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Hibeş, Akdeniz Balık Çeşitleri",
+      "resimler": [
+        "phaselis_su_kemeri.jpg",
+        "phaselis_koy.jpg"
+      ],
+      "etiketler": ["koy", "plaj", "çam ormanı", "likya", "su kemeri", "kemer", "turizm", "tarih"]
+    },
+    {
+      "id": 31,
+      "baslik": "Kelebekler Vadisi",
+      "sehir": "Muğla / Fethiye",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 36.4961, "lng": 29.1233 },
+      "aciklama": "350 metreye ulaşan sarp kayalık duvarlarla çevrili, dış dünyadan izole olmuş ve sadece teknelerle ulaşılabilen, onlarca endemik kelebek türüne ev sahipliği yapan saklı bir doğa cenneti.",
+      "en_iyi_zaman": "Mayıs - Ekim",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Köy Kahvaltısı, Avokadolu Salata",
+      "resimler": [
+        "kelebekler_vadi.jpg",
+        "kelebekler_sahil.jpg"
+      ],
+      "etiketler": ["vadi", "kelebek", "fethiye", "kamp", "tekne turu", "doğa", "turizm"]
+    },
+    {
+      "id": 32,
+      "baslik": "Saklıkent Kanyonu",
+      "sehir": "Muğla - Antalya Sınırı",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 36.4741, "lng": 29.2902 },
+      "aciklama": "Binlerce yıl boyunca akan karların kayaları aşındırmasıyla oluşmuş, 18 km uzunluğunda ve güneş ışığının dahi giremediği darlıkta, buz gibi azgın suların içinden yürünerek keşfedilen devasa kanyon.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:45 - 19:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Kanyon Alabalığı, Gözleme",
+      "resimler": [
+        "saklikent_kanyon.jpg",
+        "saklikent_akarsu.jpg"
+      ],
+      "etiketler": ["kanyon", "akarsu", "rafting", "macera", "trekking", "doğa", "turizm"]
+    },
+    {
+      "id": 33,
+      "baslik": "Salda Gölü",
+      "sehir": "Burdur / Yeşilova",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 37.5511, "lng": 29.6788 },
+      "aciklama": "Bembeyaz magnezyum zengini kumsalları ve cam gibi turkuaz suyu nedeniyle 'Türkiye'nin Maldivleri' olarak anılan, Mars'ın yüzey özelliklerini taşıyan dünyadaki ender jeolojik göllerden biri.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:00 - 19:00 (Sit alanı korumasındadır)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Yeşilova Kıymalı Pidesi",
+      "resimler": [
+        "salda_sahil.jpg",
+        "salda_turkuaz.jpg"
+      ],
+      "etiketler": ["göl", "maldivler", "turkuaz", "beyaz kum", "mars", "doğa", "turizm"]
+    },
+    {
+      "id": 34,
+      "baslik": "Uzungöl",
+      "sehir": "Trabzon / Çaykara",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 40.6181, "lng": 40.2912 },
+      "aciklama": "Yamaçlardan düşen kayaların Haldizen deresinin önünü kapatmasıyla oluşmuş, dik ve sisli ladin ormanlarının ortasında yer alan, ikonik camisi ve ahşap mimarisiyle ünlü Doğu Karadeniz heyelan gölü.",
+      "en_iyi_zaman": "Mayıs - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Muhlama, Tereyağında Alabalık",
+      "resimler": [
+        "uzungol_cami.jpg",
+        "uzungol_daglar.jpg"
+      ],
+      "etiketler": ["göl", "karadeniz", "orman", "sis", "yayla", "turizm", "doğa"]
+    },
+    {
+      "id": 35,
+      "baslik": "Ayder Yaylası",
+      "sehir": "Rize / Çamlıhemşin",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 40.9514, "lng": 41.1032 },
+      "aciklama": "Kaçkar dağlarının eteklerinde, ladin ormanları ve gürül gürül akan şelalelerle (Gelin Tülü) çevrili, kaplıcaları ve tulum sesleriyle Karadeniz yayla kültürünün kalbinin attığı yer.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Rize Kavurması, Ayder Balı, Laz Böreği",
+      "resimler": [
+        "ayder_yayla.jpg",
+        "gelintulu_selale.jpg"
+      ],
+      "etiketler": ["yayla", "karadeniz", "kaçkar", "şelale", "yeşil", "kaplıca", "turizm"]
+    },
+    {
+      "id": 36,
+      "baslik": "Van Gölü ve Akdamar Adası",
+      "sehir": "Van / Gevaş",
+      "kategori": "Turistik Doğa & Tarih",
+      "koordinat": { "lat": 38.3411, "lng": 43.0361 },
+      "aciklama": "Türkiye'nin en büyük sodalı gölü üzerinde yer alan ve baharda badem çiçekleriyle donanan Akdamar Adası ile üzerindeki muhteşem taş kabartmalarıyla ünlü 10. yüzyıl Ermeni Kutsal Haç Kilisesi.",
+      "en_iyi_zaman": "Nisan - Haziran",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Van Kahvaltısı, İnci Kefali Tandır",
       "resimler": [
         "akdamar_ada.jpg",
         "akdamar_kilise.jpg"
       ],
-      "etiketler": ["ada", "kilise", "van gölü", "tarih", "kabartma", "doğa", "badem çiçeği", "inanç"]
+      "etiketler": ["göl", "ada", "kilise", "badem çiçeği", "van", "turizm", "tarih"]
     },
     {
-      "id": 13,
-      "baslik": "Tarihi Odunpazarı Evleri",
-      "sehir": "Eskişehir",
-      "kategori": "Kültür & Modern Sanat",
-      "koordinat": { "lat": 39.7611, "lng": 30.5281 },
-      "aciklama": "Eskişehir'in ilk yerleşim yerini oluşturan, rengarenk boyanmış ahşap süslemeli geleneksel Osmanlı evlerinin korunduğu turistik bölge. Tarihi dokusunun içinde barındırdığı dünyaca ünlü OMM (Odunpazarı Modern Müze), Balmumu Heykeller Müzesi, Lületaşı Çarşısı ve Kurşunlu Külliyesi ile geleneksel kültürün modern sanat ve dinamik şehir hayatıyla birleştiği bir cazibe merkezidir.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar (Yürüyerek keşfetmek için en ideal havalar)",
-      "ziyaret_saatleri": "24 Saat Açık (Müzeler Pazartesi hariç 10:00 - 18:00)",
+      "id": 37,
+      "baslik": "Eğirdir Gölü",
+      "sehir": "Isparta",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 37.8732, "lng": 30.8514 },
+      "aciklama": "Günün farklı saatlerinde rengi mavi ve yeşilin yedi tonuna bürünen, içinde Can Ada ve Yeşil Ada adında iki sevimli yarımadayı barındıran, etrafı elma bahçeleriyle çevrili sakin sakin göl şehri.",
+      "en_iyi_zaman": "Mayıs - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık",
       "giris_ucretli_mi": false,
-      "one_cikan_lezzet": "Çibörek, Balaban Köfte, Met Helvası",
+      "one_cikan_lezzet": "Eğirdir Dişli Balığı, Isparta Gül Lokumu",
       "resimler": [
-        "odunpazari_evler.jpg",
-        "odunpazari_modern_muze.jpg"
+        "egirdir_gol.jpg",
+        "yesil_ada.jpg"
       ],
-      "etiketler": ["konak", "modern sanat", "müze", "eskişehir", "renkli", "kültür", "lületaşı", "osmanlı"]
+      "etiketler": ["göl", "isparta", "sakin şehir", "ada", "elma", "doğa", "turizm"]
+    },
+    {
+      "id": 38,
+      "baslik": "Yedigöller Milli Parkı",
+      "sehir": "Bolu",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 40.9412, "lng": 31.7433 },
+      "aciklama": "Heyelan sonucu oluşmuş ardışık 7 adet büyüleyici göl (Büyükgöl, Sazlıgöl vb.) ve özellikle sonbaharda sarı, kızıl, turuncu renklere bürünen kayın ve meşe ormanlarıyla bezeli fotoğrafçılık ve kamp cenneti.",
+      "en_iyi_zaman": "Ekim - Kasım (Sonbahar Renkleri İçin)",
+      "ziyaret_saatleri": "08:00 - 20:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Bolu Mengen Pilavı, Kartalkaya Ekmeği",
+      "resimler": [
+        "yedigoller_sonbahar.jpg",
+        "yedigoller_yansima.jpg"
+      ],
+      "etiketler": ["göl", "sonbahar", "yaprak", "bolu", "kamp", "fotoğrafçılık", "doğa"]
+    },
+    {
+      "id": 39,
+      "baslik": "Abant Gölü Tabiat Parkı",
+      "sehir": "Bolu",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 40.6022, "lng": 31.2805 },
+      "aciklama": "Etrafı çam ve göknar ormanlarıyla çevrili, nilüfer çiçekleriyle kaplı, her mevsim ayrı bir kartpostallık manzara sunan, fayton turları ve doğa yürüyüşleriyle popüler krater/heyelan gölü.",
+      "en_iyi_zaman": "Tüm Yıl (Özellikle Kış ve Sonbahar)",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Abant Alabalığı, Sucuk Ekmek",
+      "resimler": [
+        "abant_gol.jpg",
+        "abant_kar.jpg"
+      ],
+      "etiketler": ["göl", "bolu", "nilüfer", "çam", "haftasonu", "doğa", "turizm"]
+    },
+    {
+      "id": 40,
+      "baslik": "Ihlara Vadisi",
+      "sehir": "Aksaray",
+      "kategori": "Turistik Doğa & Tarih",
+      "koordinat": { "lat": 38.2392, "lng": 34.3014 },
+      "aciklama": "Hasandağı'nın lavlarıyla oluşan, içinden Melendiz çayının aktığı 14 km'lik devasa kanyon. Kanyon duvarlarına oyulmuş erken dönem Hristiyan kiliseleri (Ağaçaltı, Yılanlı) ve yemyeşil doğasıyla eşsizdir.",
+      "en_iyi_zaman": "Aprel - Haziran ve Eylül - Kasım",
+      "ziyaret_saatleri": "08:00 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Aksaray Tava, Şeker Pancarı Pekmezi",
+      "resimler": [
+        "ihlara_kanyon.jpg",
+        "ihlara_kilise.jpg"
+      ],
+      "etiketler": ["vadi", "kanyon", "kilise", "melendiz", "tarih", "doğa", "turizm"]
+    },
+    {
+      "id": 41,
+      "baslik": "Kızkalesi (Deniz Kalesi)",
+      "sehir": "Mersin / Erdemli",
+      "kategori": "Turistik Deniz & Tarih",
+      "koordinat": { "lat": 36.5636, "lng": 34.1485 },
+      "aciklama": "Kıyıdan 200 metre açıkta, küçük bir adacık üzerine inşa edilmiş, efsaneye göre kralın kızını yılanlardan korumak için yaptırdığı, karşısındaki ince kumlu plajıyla Mersin'in en turistik simgesi olan kale.",
+      "en_iyi_zaman": "Haziran - Ekim",
+      "ziyaret_saatleri": "08:00 - 19:00 (Adaya tekne ile geçilir)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Tantuni, Kerebiç Tatlısı, Cezerye",
+      "resimler": [
+        "kizkalesi_deniz.jpg",
+        "kizkalesi_sahil.jpg"
+      ],
+      "etiketler": ["kale", "plaj", "deniz", "mersin", "efsane", "ada", "turizm"]
+    },
+    {
+      "id": 42,
+      "baslik": "Gökpınar Gölü",
+      "sehir": "Sivas / Gürün",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 38.6532, "lng": 37.3014 },
+      "aciklama": "Doğal bir akvaryumu andıran, berraklığı sayesinde dibindeki bitki ve balıkların en net şekilde izlenebildiği, derinliği 15 metreyi bulmasına rağmen turkuaz rengiyle büyüleyen saklı bir doğa mucizesi.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Sivas Köftesi, Gürün Dut Pekmezi",
+      "resimler": [
+        "gokpinar_turkuaz.jpg",
+        "gokpinar_akvaryum.jpg"
+      ],
+      "etiketler": ["göl", "turkuaz", "akvaryum", "dalış", "sivas", "doğa", "turizm"]
+    },
+    {
+      "id": 43,
+      "baslik": "Dalyan Kanalı ve İztuzu Plajı",
+      "sehir": "Muğla / Ortaca",
+      "kategori": "Turistik Doğa & Yaz",
+      "koordinat": { "lat": 36.7901, "lng": 28.6214 },
+      "aciklama": "Sazlık labirentleri andıran kanallardan teknelerle geçilerek ulaşılan, bir tarafı tatlı su diğer tarafı Akdeniz olan, Caretta Caretta kaplumbağalarının dünyadaki en önemli yumurtlama alanı.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "Plaj: 08:00 - 20:00 (Geceleri kaplumbağalara aittir)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Mavi Yengeç, Dalyan Kefali",
+      "resimler": [
+        "dalyan_sazlik.jpg",
+        "iztuzu_plaj.jpg"
+      ],
+      "etiketler": ["caretta caretta", "plaj", "kanal", "tekne", "sazlık", "muğla", "turizm"]
+    },
+    {
+      "id": 44,
+      "baslik": "Karanlık Kanyon",
+      "sehir": "Erzincan / Kemaliye",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 39.2942, "lng": 38.4905 },
+      "aciklama": "Fırat nehrinin dağları yarmasıyla oluşmuş, dünyanın en derin kanyonlarından biri. İnsan yapımı 'Taş Yol' tünelleri ve kanyon içinde yapılan bot turları ile adrenalin tavan yaptığı bir doğa harikası.",
+      "en_iyi_zaman": "Haziran - Ağustos",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Kemaliye Lök Tatlısı, Tulum Peyniri",
+      "resimler": [
+        "karanlik_kanyon.jpg",
+        "kemaliye_tasyol.jpg"
+      ],
+      "etiketler": ["kanyon", "fırat", "bot turu", "taş yol", "macera", "doğa", "turizm"]
+    },
+    {
+      "id": 45,
+      "baslik": "Borçka Karagöl Tabiat Parkı",
+      "sehir": "Artvin / Borçka",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 41.3854, "lng": 41.8522 },
+      "aciklama": "1800'lü yıllarda bir tepenin heyelan sonucu Klaskur deresinin önünü kapatmasıyla oluşan, devasa çam ve kayın ağaçlarının suya yansıyan büyüleyici yeşil görüntüsüyle ünlü saklı heyelan gölü.",
+      "en_iyi_zaman": "Mayıs - Ekim",
+      "ziyaret_saatleri": "08:00 - 20:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Karadeniz Pidesi, Karagöl Alabalığı",
+      "resimler": [
+        "borcka_karagol.jpg",
+        "borcka_yansima.jpg"
+      ],
+      "etiketler": ["göl", "artvin", "karadeniz", "heyelan", "kamp", "doğa", "turizm"]
+    },
+    {
+      "id": 46,
+      "baslik": "Cennet - Cehennem Obrukları",
+      "sehir": "Mersin / Silifke",
+      "kategori": "Turistik Doğa & Tarih",
+      "koordinat": { "lat": 36.4522, "lng": 34.1264 },
+      "aciklama": "Yer altı sularının kireç tabakasını eritmesiyle çöken iki devasa obruk. Cennet obruğunun dibine 452 basamakla inilir ve içinde tarihi bir kilise bulunur; Cehennem obruğu ise dikliği nedeniyle sadece yukarıdan seyredilir.",
+      "en_iyi_zaman": "Bahar Ayları",
+      "ziyaret_saatleri": "08:00 - 19:00 (Asansör mevcuttur)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Silifke Yoğurdu, Sıkma",
+      "resimler": [
+        "cennet_obrugu.jpg",
+        "cehennem_seyir.jpg"
+      ],
+      "etiketler": ["obruk", "mağara", "kilise", "mitoloji", "mersin", "doğa", "turizm"]
+    },
+    {
+      "id": 47,
+      "baslik": "Muradiye Şelalesi",
+      "sehir": "Van / Muradiye",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 38.9014, "lng": 43.7533 },
+      "aciklama": "Tendürek Dağı'ndan beslenen Bend-i Mahi çayı üzerinde, yaklaşık 18 metre yükseklikten gürül gürül akan, kışın tamamen donarak kristal bir kuleye dönüşen, asma köprüsüyle ünlü şelale.",
+      "en_iyi_zaman": "Mayıs - Haziran (Debinin en yüksek olduğu dönem)",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Van Otlu Peyniri, Keledoş",
+      "resimler": [
+        "muradiye_selale.jpg",
+        "muradiye_asma_kopru.jpg"
+      ],
+      "etiketler": ["şelale", "van", "akarsu", "kışın donan şelale", "doğa", "turizm"]
+    },
+    {
+      "id": 48,
+      "baslik": "Gökçeada (İmroz)",
+      "sehir": "Çanakkale",
+      "kategori": "Turistik Ada",
+      "koordinat": { "lat": 40.1814, "lng": 25.8233 },
+      "aciklama": "Türkiye'nin en büyük adası ve dünyanın ilk 'Cittaslow' (Sakin Şehir) unvanına sahip adası. Tarihi Rum köyleri (Zeytinli, Kaleköy), dibi görünen bakir koyları ve rüzgar sörfüne uygun plajlarıyla sakinlik arayanların adresi.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık (Feribot saatlerine bağlı)",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Dibek Kahvesi, Sakızlı Muhallebi, Oğlak Tandır",
+      "resimler": [
+        "gokceada_rum_koyu.jpg",
+        "gokceada_sahil.jpg"
+      ],
+      "etiketler": ["ada", "rum köyü", "cittaslow", "sörf", "zeytin", "çanakkale", "turizm"]
+    },
+    {
+      "id": 49,
+      "baslik": "Bozcaada (Tenedos)",
+      "sehir": "Çanakkale",
+      "kategori": "Turistik Ada",
+      "koordinat": { "lat": 39.8314, "lng": 26.0522 },
+      "aciklama": "Ege denizinin kuzeyinde yer alan, heybetli kalesi, dar sokaklarındaki renkli taş evleri, uçsuz bucaksız üzüm bağları ve Ayazma plajı ile ünlü, Türkiye'nin en popüler ve romantik turizm adalarından biri.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Bağ Şarabı, Domates Reçeli, Bademli Damla Sakızlı Kurabiye",
+      "resimler": [
+        "bozcaada_renkli_sokak.jpg",
+        "bozcaada_kale.jpg"
+      ],
+      "etiketler": ["ada", "bağ bozumu", "şarap", "ege", "kale", "renkli evler", "turizm"]
+    },
+    {
+      "id": 50,
+      "baslik": "Kuzalan Şelalesi ve Mavi Göl",
+      "sehir": "Giresun / Dereli",
+      "kategori": "Turistik Doğa",
+      "koordinat": { "lat": 40.7533, "lng": 38.3412 },
+      "aciklama": "Karadeniz'in gür ormanları içindeki kireç taşlarının suyu sodalandırmasıyla oluşan, özellikle yaz ve sonbahar aylarında cam göbeği/turkuaz rengine bürünen, yan yana dizilmiş 3 adet doğa harikası göl ve şelale.",
+      "en_iyi_zaman": "Haziran - Eylül",
+      "ziyaret_saatleri": "08:00 - 19:30",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Giresun Pidesi, Fındıklı Helva, Karalahana Çorbası",
+      "resimler": [
+        "mavigol_turkuaz.jpg",
+        "kuzalan_selalesi.jpg"
+      ],
+      "etiketler": ["mavi göl", "turkuaz", "şelale", "giresun", "orman", "doğa", "turizm"]
     }
   ]
 }
