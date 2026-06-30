@@ -6,16 +6,16 @@
       "sehir": "Nevşehir",
       "kategori": "Doğa Harikası & Tarih",
       "koordinat": { "lat": 38.6431, "lng": 34.8289 },
-      "aciklama": "Peri bacaları, sıcak hava balonları ve yeraltı şehirleriyle dünyaca ünlü, eşsiz volkanik manzaralara sahip masalsı bir bölge. Gün doğumunda gökyüzünü süsleyen yüzlerce balon, bu coğrafyayı dünyanın en büyülü yerlerinden biri yapıyor. Göreme Açık Hava Müzesi, Derinkuyu ve Kaymaklı yeraltı şehirleri bölgenin tarihi derinliğini gözler önüne serer.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar",
-      "ziyaret_saatleri": "24 Saat Açık (Müzeler: 08:00 - 19:00)",
+      "aciklama": "Peri bacaları, sıcak hava balonları ve yeraltı şehirleriyle dünyaca ünlü, eşsiz volkanik manzaralara sahip masalsı bir bölge. Gün doğumunda gökyüzünü süsleyen yüzlerce balon, bu coğrafyayı dünyanın en büyülü yerlerinden biri yapıyor. Göreme Açık Hava Müzesi, Derinkuyu ve Kaymaklı yeraltı şehirleri, Uçhisar Kalesi ve Ihlara Vadisi bölgenin tarihi ve coğrafi derinliğini gözler önüne serer.",
+      "en_iyi_zaman": "İlkbahar (Nisan-Haziran) ve Sonbahar (Eylül-Kasım)",
+      "ziyaret_saatleri": "24 Saat Açık (Ören yerleri ve müzeler: 08:00 - 19:00)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Testi Kebabı",
+      "one_cikan_lezzet": "Testi Kebabı, Nevşehir Tavası, Köftür",
       "resimler": [
         "kapadokya_balon.jpg",
         "kapadokya_peri_bacalari.jpg"
       ],
-      "etiketler": ["balon", "peri bacaları", "tarih", "doğa", "yeraltı şehri", "kültür"]
+      "etiketler": ["balon", "peri bacaları", "tarih", "doğa", "yeraltı şehri", "kültür", "vadi", "safari", "at binme"]
     },
     {
       "id": 2,
@@ -23,16 +23,16 @@
       "sehir": "Denizli",
       "kategori": "Termal & UNESCO",
       "koordinat": { "lat": 37.9202, "lng": 29.1207 },
-      "aciklama": "Bembeyaz traverten terasları ve kalsiyum zengini termal havuzlarıyla tanınan UNESCO Dünya Mirası. Hemen arkasında yer alan Antik Hierapolis kenti, Kleopatra Havuzu ve görkemli antik tiyatrosuyla doğayla tarihin kesiştiği şifalı bir cennettir.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar",
-      "ziyaret_saatleri": "06:30 - 20:00",
+      "aciklama": "Bembeyaz traverten terasları ve kalsiyum zengini termal havuzlarıyla tanınan UNESCO Dünya Mirası. Hemen arkasında yer alan Antik Hierapolis kenti, şifalı sularıyla bilinen Kleopatra Havuzu (Antik Havuz), devasa amfitiyatrosu ve anıtsal kapılarıyla doğayla tarihin kesiştiği benzersiz bir şifa merkezidir.",
+      "en_iyi_zaman": "İlkbahar ve Sonbahar ayları (Sıcaklığın dengeli olduğu dönemler)",
+      "ziyaret_saatleri": "06:30 - 23:00 (Yaz dönemi gece müzeciliği dahil)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Denizli Kebabı",
+      "one_cikan_lezzet": "Denizli Kebabı, Çaput Aşı, Kale Biberi Tatarı",
       "resimler": [
         "pamukkale_traverten.jpg",
         "pamukkale_havuz.jpg"
       ],
-      "etiketler": ["termal", "unesco", "beyaz", "şifa", "antik kent", "arkeoloji"]
+      "etiketler": ["termal", "unesco", "beyaz", "şifa", "antik kent", "arkeoloji", "traverten", "hierapolis", "sağlık turizmi"]
     },
     {
       "id": 3,
@@ -40,16 +40,16 @@
       "sehir": "Bursa",
       "kategori": "Kış & Doğa",
       "koordinat": { "lat": 40.0691, "lng": 29.2229 },
-      "aciklama": "Türkiye'nin en popüler ve köklü kış sporları merkezi. Kışın karla kaplı zirveleri, modern kayak pistleri ve canlı gece hayatıyla öne çıkarken; yazın ise yemyeşil milli park alanları, trekking rotaları ve buzul gölleriyle dört mevsim seyahat edilebilecek bir doğa harikasıdır.",
-      "en_iyi_zaman": "Kış (Aralık - Mart)",
-      "ziyaret_saatleri": "24 Saat Açık (Milli Park Girişi)",
+      "aciklama": "Türkiye'nin en popüler ve köklü kış sporları merkezi. Kışın karla kaplı zirveleri, her seviyeye uygun modern kayak pistleri ve telesiyej hatları ile öne çıkarken; yazın ve bahar aylarında ise yemyeşil milli park alanları, trekking rotaları, kamp alanları ve buzul gölleriyle dört mevsim seyahat edilebilecek bir doğa kaçış noktasıdır.",
+      "en_iyi_zaman": "Kış Sporları İçin: Aralık - Mart | Doğa Yürüyüşleri İçin: Haziran - Eylül",
+      "ziyaret_saatleri": "24 Saat Açık (Milli Park Girişi ve Oteller Bölgesi)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "İskender Kebap & Kestane Şekeri",
+      "one_cikan_lezzet": "İskender Kebap, Kestane Şekeri, Dağ Çileği",
       "resimler": [
         "uludag_kar.jpg",
         "uludag_orman.jpg"
       ],
-      "etiketler": ["kar", "kayak", "dağ", "orman", "milli park", "kış sporları"]
+      "etiketler": ["kar", "kayak", "dağ", "orman", "milli park", "kış sporları", "snowboard", "telesiyej", "kamp"]
     },
     {
       "id": 4,
@@ -57,16 +57,16 @@
       "sehir": "Muğla / Fethiye",
       "kategori": "Sahil & Adrenalin",
       "koordinat": { "lat": 36.5524, "lng": 29.1117 },
-      "aciklama": "Dünyanın en güzel plajları listesinde sürekli ilk sıralarda yer alan, dalgasız ve cam gibi turkuaz lagünüyle ünlü saklı bir cennet. Hemen yanı başındaki Babadağ'dan yapılan yamaç paraşütü uçuşlarıyla adrenalin tutkunlarının, Kelebekler Vadisi'ne yakınlığıyla da doğaseverlerin Akdeniz'deki en ikonik durağıdır.",
-      "en_iyi_zaman": "Yaz ve Erken Sonbahar",
-      "ziyaret_saatleri": "08:00 - 20:00 (Plaj)",
+      "aciklama": "Dünyanın en güzel plajları listesinde sürekli ilk sıralarda yer alan, en fırtınalı günlerde bile dalgasız ve cam gibi turkuaz lagünüyle ünlü saklı bir cennet. Hemen yanı başındaki Babadağ'dan yapılan yamaç paraşütü uçuşlarıyla adrenalin tutkunlarının, tekne turlarıyla ulaşılan Kelebekler Vadisi ve Kabak Koyu'na yakınlığıyla da doğaseverlerin Akdeniz'deki en ikonik durağıdır.",
+      "en_iyi_zaman": "Haziran - Ekim (Deniz suyu sıcaklığının en ideal olduğu dönem)",
+      "ziyaret_saatleri": "08:00 - 20:00 (Tabiat Parkı ve Plaj Girişi)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Mavi Yengeç & Deniz Ürünleri",
+      "one_cikan_lezzet": "Mavi Yengeç, Deniz Ürünleri Meze Çeşitleri, Babadağ Keşkeği",
       "resimler": [
         "oludeniz_plaj.jpg",
         "oludeniz_yamac.jpg"
       ],
-      "etiketler": ["plaj", "lagün", "yamaç paraşütü", "akdeniz", "deniz", "tatil"]
+      "etiketler": ["plaj", "lagün", "yamaç paraşütü", "akdeniz", "deniz", "tatil", "adrenalin", "koy", "mavi bayrak"]
     },
     {
       "id": 5,
@@ -74,16 +74,16 @@
       "sehir": "İzmir / Selçuk",
       "kategori": "Tarih & Arkeoloji",
       "koordinat": { "lat": 37.9409, "lng": 27.3415 },
-      "aciklama": "Antik dünyanın en önemli ticaret ve kültür merkezlerinden biri olan Efes, UNESCO Dünya Mirası listesindedir. Devasa Celsus Kütüphanesi, antik tiyatrosu ve Yamaç Evler'i ile ziyaretçilerini binlerce yıl öncesine, Roma İmparatorluğu'nun ihtişamlı dönemlerine götürür.",
-      "en_iyi_zaman": "İlkbahar ve Sonbahar",
-      "ziyaret_saatleri": "08:00 - 20:00",
+      "aciklama": "Antik dünyanın en önemli ticaret, kültür ve din merkezlerinden biri olan Efes, UNESCO Dünya Mirası listesindedir. Devasa ve büyüleyici Celsus Kütüphanesi, 25 bin kişilik dev antik tiyatrosu, Hadrian Tapınağı ve zengin Roma yaşantısını gösteren Yamaç Evler'i ile ziyaretçilerini binlerce yıl öncesine, Helenistik ve Roma İmparatorluğu'nun en ihtişamlı dönemlerine götürür.",
+      "en_iyi_zaman": "Nisan - Mayıs ve Eylül - Ekim (Yaz sıcağından kaçınmak için)",
+      "ziyaret_saatleri": "08:00 - 20:00 (Yaz aylarında gece aydınlatması ile açık kalabilmektedir)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Çöp Şiş & Selçuk Gözlemesi",
+      "one_cikan_lezzet": "Çöp Şiş, Selçuk Gözlemesi, Şirince Şarabı",
       "resimler": [
         "efes_kutuphane.jpg",
         "efes_tiyatro.jpg"
       ],
-      "etiketler": ["tarih", "antik kent", "unesco", "arkeoloji", "roma"]
+      "etiketler": ["tarih", "antik kent", "unesco", "arkeoloji", "roma", "müze", "helenistik", "kültür"]
     },
     {
       "id": 6,
@@ -91,16 +91,16 @@
       "sehir": "Trabzon / Maçka",
       "kategori": "Kültür & Doğa",
       "koordinat": { "lat": 40.6901, "lng": 39.6583 },
-      "aciklama": "Karadağ'ın dik yamacında, yerden yaklaşık 300 metre yükseklikte kayalar oyularak inşa edilmiş tarihi bir Rum Ortodoks manastırı. Altındere Vadisi'nin sisli ve yemyeşil doğasıyla bütünleşen bu yapı, eşsiz freskleri ve gizemli mimarisiyle Karadeniz'in en mistik noktasıdır.",
-      "en_iyi_zaman": "Yaz ve İlkbahar",
+      "aciklama": "Karadağ'ın dik ve sarp yamacında, yerden yaklaşık 300 metre yükseklikte kayalar oyularak inşa edilmiş tarihi bir Rum Ortodoks manastır kompleksi. Altındere Vadisi'nin sisli, gür ormanlarla kaplı yemyeşil doğasıyla bütünleşen bu yapı; içindeki eşsiz İncil sahnelerini betimleyen freskleri, kutsal ayazması, kütüphanesi ve gizemli mimarisiyle Karadeniz'in en mistik noktasıdır.",
+      "en_iyi_zaman": "Mayıs - Eylül (Yağışın nispeten az ve havanın açık olduğu aylar)",
       "ziyaret_saatleri": "08:00 - 19:00",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Akçaabat Köftesi & Kuymak",
+      "one_cikan_lezzet": "Akçaabat Köftesi, Kuymak / Mıhlama, Hamsili Pilav, Laz Böreği",
       "resimler": [
         "sumela_manastir.jpg",
         "sumela_vadi.jpg"
       ],
-      "etiketler": ["manastır", "karadeniz", "tarih", "doğa", "fresk", "dağ"]
+      "etiketler": ["manastır", "karadeniz", "tarih", "doğa", "fresk", "dağ", "inanç turizmi", "milli park", "mimari"]
     },
     {
       "id": 7,
@@ -108,16 +108,16 @@
       "sehir": "Adıyaman / Kahta",
       "kategori": "Tarih & UNESCO",
       "koordinat": { "lat": 37.9794, "lng": 38.6533 },
-      "aciklama": "Kommagene Kralı I. Antiochos'un tanrılara ve atalarına minnettarlığını göstermek için 2150 metre yükseklikteki Nemrut Dağı zirvesine yaptırdığı devasa heykeller ve tümülüs. Dünyada gün doğumu ve gün batımının en etkileyici izlendiği, 'Tanrıların Tahtı' olarak anılan benzersiz bir açık hava tapınağıdır.",
-      "en_iyi_zaman": "İlkbahar ve Yaz",
-      "ziyaret_saatleri": "04:00 - 20:00 (Gün doğumu için erken açılır)",
+      "aciklama": "Kommagene Kralı I. Antiochos'un tanrılara ve atalarına minnettarlığını göstermek ve ölümsüzleşmek için 2150 metre yükseklikteki Nemrut Dağı zirvesine yaptırdığı devasa taş heykeller ve tümülüs. Dünyada gün doğumu ve gün batımının en etkileyici, dramatik sahnelerle izlendiği, 'Tanrıların Tahtı' olarak anılan benzersiz bir antik açık hava tapınağıdır.",
+      "en_iyi_zaman": "Mayıs - Ekim (Kışın yollar kar nedeniyle kapanabilmektedir)",
+      "ziyaret_saatleri": "04:00 - 20:00 (Gün doğumu turları için sabaha karşı açılır)",
       "giris_ucretli_mi": true,
-      "one_cikan_lezzet": "Adıyaman Çiğ Köftesi",
+      "one_cikan_lezzet": "Adıyaman Çiğ Köftesi, Besni Tavası, Hitit Köftesi",
       "resimler": [
         "nemrut_heykel.jpg",
         "nemrut_gunbatimi.jpg"
       ],
-      "etiketler": ["unesco", "heykel", "tarih", "dağ", "gündoğumu", "milli park"]
+      "etiketler": ["unesco", "heykel", "tarih", "dağ", "gündoğumu", "milli park", "kommagene", "arkeoloji", "günbatımı"]
     },
     {
       "id": 8,
@@ -125,16 +125,101 @@
       "sehir": "Antalya / Kaş",
       "kategori": "Sahil & Doğa",
       "koordinat": { "lat": 36.2289, "lng": 29.4492 },
-      "aciklama": "Bir kanyon ağzında yer alan, dik merdivenlerle inilen dünyaca ünlü bir doğa harikası plaj. Yeraltından akan serin suların denizle buluşması sayesinde turkuazın en büyüleyici tonlarına sahip olan Kaputaş, Akdeniz'in en fotojenik ve popüler koylarından biridir.",
-      "en_iyi_zaman": "Yaz ve Sonbahar",
-      "ziyaret_saatleri": "08:00 - 19:00",
+      "aciklama": "Kalkan ile Kaş arasındaki dik sahil yolu üzerinde, derin bir kanyon ağzında yer alan ve merdivenlerle inilen dünyaca ünlü bir cep plajı. Yer altından süzülerek akan serin kaynak sularının denizle buluşması sayesinde dalgalı, serin ve turkuazın en büyüleyici neon tonlarına sahip olan Kaputaş, Akdeniz'in en fotojenik koylarından biridir.",
+      "en_iyi_zaman": "Haziran - Eylül (Erken saatlerde dalgasız ve sakin olur)",
+      "ziyaret_saatleri": "08:00 - 19:00 (Plaj tesis çalışma saatleri)",
       "giris_ucretli_mi": false,
-      "one_cikan_lezzet": "Yanık Dondurma & Piyaz",
+      "one_cikan_lezzet": "Yanık Dondurma, Antalya Usulü Taratorlu Piyaz, Tahinli Kabak Tatlısı",
       "resimler": [
         "kaputas_sahil.jpg",
         "kaputas_kanyon.jpg"
       ],
-      "etiketler": ["plaj", "turkuaz", "akdeniz", "koy", "deniz", "kanyon"]
+      "etiketler": ["plaj", "turkuaz", "akdeniz", "koy", "deniz", "kanyon", "doğal sit", "kaş", "manzara"]
+    },
+    {
+      "id": 9,
+      "baslik": "Tarihi Mardin Evleri",
+      "sehir": "Mardin",
+      "kategori": "Kültür & Mimari",
+      "koordinat": { "lat": 37.3126, "lng": 40.7351 },
+      "aciklama": "Mezopotamya ovasına tepeden bakan, sarı kalker taşından yapılmış, birbirinin ışığını kapatmayan geleneksel teraslı taş evleriyle ünlü sit alanı şehir. Dar sokakları (abbara), tarihi Deyrulzafaran Manastırı, Kasımiye Medresesi ve Ulu Camii ile adeta bir açık hava müzesi olan kent, çok kültürlü yapısıyla büyülü bir Mezopotamya masalı sunar.",
+      "en_iyi_zaman": "İlkbahar (Eylül-Kasım) ve Sonbahar (Mart-Mayıs)",
+      "ziyaret_saatleri": "24 Saat Açık (Medrese ve Manastırlar: 08:30 - 17:30)",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Mardin Usulü İçli Köfte (İrok), Sembusek, Süryani Çöreği, Mırra",
+      "resimler": [
+        "mardin_tas_evler.jpg",
+        "mardin_sokaklari.jpg"
+      ],
+      "etiketler": ["mimari", "taş evler", "kültür", "mezopotamya", "tarih", "medrese", "manastır", "inanç", "eski mardin"]
+    },
+    {
+      "id": 10,
+      "baslik": "Göbeklitepe",
+      "sehir": "Şanlıurfa",
+      "kategori": "Tarih & Arkeoloji",
+      "koordinat": { "lat": 37.2232, "lng": 38.9224 },
+      "aciklama": "Tarihin sıfır noktası olarak kabul edilen, insanlık tarafından inşa edilmiş bilinen en eski kült yapılar topluluğu. Günümüzden yaklaşık 12.000 yıl öncesine dayanan, üzerlerinde gizemli hayvan figürleri ve semboller barındıran T biçimindeki devasa kireçtaşı sütunları, yerleşik hayata geçiş ve dinler tarihi hakkındaki tüm ezberleri bozarak UNESCO Dünya Mirası listesinde yerini almıştır.",
+      "en_iyi_zaman": "İlkbahar (Nisan-Mayıs) ve Sonbahar (Eylül-Ekim)",
+      "ziyaret_saatleri": "08:30 - 19:00",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Urfa Kebabı, Çiğ Köfte, Şıllık Tatlısı, Mırra",
+      "resimler": [
+        "gobeklitepe_dikilitas.jpg",
+        "gobeklitepe_genel.jpg"
+      ],
+      "etiketler": ["arkeoloji", "tarih", "unesco", "neolitik", "tarihin sıfır noktası", "urfa", "tapınak", "gizem"]
+    },
+    {
+      "id": 11,
+      "baslik": "Safranbolu Evleri",
+      "sehir": "Karabük",
+      "kategori": "Tarih & UNESCO",
+      "koordinat": { "lat": 41.2449, "lng": 32.6942 },
+      "aciklama": "Osmanlı kent mimarisini, geleneksel yaşam tarzını ve şehir planlamasını günümüze kadar kusursuz bir şekilde korumuş olan UNESCO Dünya Mirası kenti. Ahşap ve taş işçiliğinin en zarif örneklerini sergileyen tarihi konakları, Arnavut kaldırımlı dar sokakları, eski lonca çarşıları (Yemeniciler) ve tarihi demirciler çarşısı ile ziyaretçilerini zamanda yolculuğa çıkarır.",
+      "en_iyi_zaman": "İlkbahar ve Sonbahar ayları",
+      "ziyaret_saatleri": "24 Saat Açık (Müze konaklar: 09:00 - 18:00)",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Safranbolu Lokumu, Bükme Pide, Peruhi, Safranlı Zerde",
+      "resimler": [
+        "safranbolu_konak.jpg",
+        "safranbolu_carsisi.jpg"
+      ],
+      "etiketler": ["osmanlı", "mimari", "konak", "unesco", "tarih", "kültür", "çarşı", "safran"]
+    },
+    {
+      "id": 12,
+      "baslik": "Akdamar Adası ve Kilisesi",
+      "sehir": "Van",
+      "kategori": "Doğa & İnanç Turizmi",
+      "koordinat": { "lat": 38.3411, "lng": 43.0361 },
+      "aciklama": "Van Gölü'nün göz alıcı mavi suları üzerinde yükselen, ilkbaharda çiçek açan badem ağaçlarıyla görsel şölene dönüşen ikonik bir ada. Ada üzerinde yer alan 10. yüzyıldan kalma Kutsal Haç Ermeni Kilisesi, dış cephesindeki Tevrat ve İncil hikayelerini anlatan taş kabartma işçilikleriyle Orta Çağ Ermeni sanatının dünyadaki en nadide örneklerinden biridir.",
+      "en_iyi_zaman": "İlkbahar (Özellikle Badem Çiçeklerinin Açtığı Nisan-Mayıs Ayları)",
+      "ziyaret_saatleri": "08:00 - 19:00 (Adaya giden motorların saatlerine bağlıdır)",
+      "giris_ucretli_mi": true,
+      "one_cikan_lezzet": "Van Kahvaltısı, Van Balığı (İnci Kefali) Tandır",
+      "resimler": [
+        "akdamar_ada.jpg",
+        "akdamar_kilise.jpg"
+      ],
+      "etiketler": ["ada", "kilise", "van gölü", "tarih", "kabartma", "doğa", "badem çiçeği", "inanç"]
+    },
+    {
+      "id": 13,
+      "baslik": "Tarihi Odunpazarı Evleri",
+      "sehir": "Eskişehir",
+      "kategori": "Kültür & Modern Sanat",
+      "koordinat": { "lat": 39.7611, "lng": 30.5281 },
+      "aciklama": "Eskişehir'in ilk yerleşim yerini oluşturan, rengarenk boyanmış ahşap süslemeli geleneksel Osmanlı evlerinin korunduğu turistik bölge. Tarihi dokusunun içinde barındırdığı dünyaca ünlü OMM (Odunpazarı Modern Müze), Balmumu Heykeller Müzesi, Lületaşı Çarşısı ve Kurşunlu Külliyesi ile geleneksel kültürün modern sanat ve dinamik şehir hayatıyla birleştiği bir cazibe merkezidir.",
+      "en_iyi_zaman": "İlkbahar ve Sonbahar (Yürüyerek keşfetmek için en ideal havalar)",
+      "ziyaret_saatleri": "24 Saat Açık (Müzeler Pazartesi hariç 10:00 - 18:00)",
+      "giris_ucretli_mi": false,
+      "one_cikan_lezzet": "Çibörek, Balaban Köfte, Met Helvası",
+      "resimler": [
+        "odunpazari_evler.jpg",
+        "odunpazari_modern_muze.jpg"
+      ],
+      "etiketler": ["konak", "modern sanat", "müze", "eskişehir", "renkli", "kültür", "lületaşı", "osmanlı"]
     }
   ]
 }
