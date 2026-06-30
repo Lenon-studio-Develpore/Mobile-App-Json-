@@ -5,29 +5,29 @@
       "lokasyon_basligi": "Kapadokya",
       "ortalama_puan": 4.8,
       "yorum_listesi": [
-        { "kullanici": "Elif K.", "puan": 5, "tarih": "2025-03-14", "yorum": "Balon turu hayatımın en güzel deneyimiydi. Gün doğumunda gökyüzü tamamen büyülüydü!" },
-        { "kullanici": "Mert A.", "puan": 5, "tarih": "2025-02-09", "yorum": "Göreme'de mağara otelde kaldık, peri bacaları manzarası inanılmazdı. Mutlaka gidin." },
-        { "kullanici": "Selin Y.", "puan": 4, "tarih": "2025-01-22", "yorum": "Yeraltı şehri Derinkuyu çok etkileyici. Kalabalıktı ama değdi." }
+        { "kullanici": "Elif Kaya", "puan": 5, "tarih": "2025-03-14", "yorum": "Balon turu hayatımın en güzel deneyimiydi. Gün doğumunda gökyüzü tamamen büyülüydü!" },
+        { "kullanici": "Mert Arslan", "puan": 5, "tarih": "2025-02-09", "yorum": "Göreme'de mağara otelde kaldık, peri bacaları manzarası inanılmazdı. Mutlaka gidin." },
+        { "kullanici": "Selin Yılmaz", "puan": 4, "tarih": "2025-01-22", "yorum": "Yeraltı şehri Derinkuyu çok etkileyici. Kalabalıktı ama değdi." }
       ]
     },
     {
       "id": 2,
-      "lokasyon_basligi": "Pamukkale",
+      "lokasyon_basligi": "Pamukkale Travertenleri",
       "ortalama_puan": 4.5,
       "yorum_listesi": [
-        { "kullanici": "Burak T.", "puan": 5, "tarih": "2025-04-02", "yorum": "Travertenler gerçek dışı görünüyor. Antik Hierapolis havuzunda yüzdük, harikaydı." },
-        { "kullanici": "Ayşe D.", "puan": 4, "tarih": "2025-03-18", "yorum": "Yalın ayak yürümek gerekiyor, biraz sert ama manzara her şeye değer." },
-        { "kullanici": "Can Ö.", "puan": 4, "tarih": "2025-02-27", "yorum": "Gün batımında gitmenizi tavsiye ederim, renkler muhteşem oluyor." }
+        { "kullanici": "Burak Taş", "puan": 5, "tarih": "2025-04-02", "yorum": "Travertenler gerçek dışı görünüyor. Antik Hierapolis havuzunda yüzdük, harikaydı." },
+        { "kullanici": "Ayşe Demir", "puan": 4, "tarih": "2025-03-18", "yorum": "Yalın ayak yürümek gerekiyor, biraz sert ama manzara her şeye değer." },
+        { "kullanici": "Can Öztürk", "puan": 4, "tarih": "2025-02-27", "yorum": "Gün batımında gitmenizi tavsiye ederim, renkler muhteşem oluyor." }
       ]
     },
     {
       "id": 3,
-      "lokasyon_basligi": "Uludağ",
+      "lokasyon_basligi": "Uludağ Milli Parkı",
       "ortalama_puan": 4.3,
       "yorum_listesi": [
-        { "kullanici": "Deniz K.", "puan": 5, "tarih": "2025-01-15", "yorum": "Kayak pistleri harika, teleferik manzarası nefes kesici!" },
-        { "kullanici": "Zeynep H.", "puan": 4, "tarih": "2024-12-30", "yorum": "Hafta sonu çok kalabalık ama kar kalitesi çok iyiydi." },
-        { "kullanici": "Onur B.", "puan": 4, "tarih": "2024-12-12", "yorum": "Yazın yaylada kamp yaptık, çok huzurluydu. Her mevsim ayrı güzel." }
+        { "kullanici": "Deniz Karaca", "puan": 5, "tarih": "2025-01-15", "yorum": "Kayak pistleri harika, teleferik manzarası nefes kesici!" },
+        { "kullanici": "Zeynep Hilal", "puan": 4, "tarih": "2024-12-30", "yorum": "Hafta sonu çok kalabalık ama kar kalitesi çok iyiydi." },
+        { "kullanici": "Onur Bulut", "puan": 4, "tarih": "2024-12-12", "yorum": "Yazın yaylada kamp yaptık, çok huzurluydu. Her mevsim ayrı güzel." }
       ]
     },
     {
@@ -35,9 +35,469 @@
       "lokasyon_basligi": "Ölüdeniz",
       "ortalama_puan": 4.9,
       "yorum_listesi": [
-        { "kullanici": "İrem S.", "puan": 5, "tarih": "2025-05-21", "yorum": "Babadağ'dan yamaç paraşütü yaptım, hayatımın deneyimi. Lagünün üstünden uçmak inanılmaz." },
-        { "kullanici": "Kerem U.", "puan": 5, "tarih": "2025-05-10", "yorum": "Su o kadar berraktı ki dibe kadar görüyordunuz. Bir cennet parçası." },
-        { "kullanici": "Nazlı P.", "puan": 5, "tarih": "2025-04-28", "yorum": "Kelebekler Vadisi'ne tekne turu yaptık, kesinlikle kaçırmayın." }
+        { "kullanici": "İrem Sönmez", "puan": 5, "tarih": "2025-05-21", "yorum": "Babadağ'dan yamaç paraşütü yaptım, hayatımın deneyimi. Lagünün üstünden uçmak inanılmaz." },
+        { "kullanici": "Kerem Uçar", "puan": 5, "tarih": "2025-05-10", "yorum": "Su o kadar berraktı ki dibe kadar görüyordunuz. Bir cennet parçası." },
+        { "kullanici": "Nazlı Polat", "puan": 5, "tarih": "2025-04-28", "yorum": "Kelebekler Vadisi'ne tekne turu yaptık, kesinlikle kaçırmayın." }
+      ]
+    },
+    {
+      "id": 5,
+      "lokasyon_basligi": "Efes Antik Kenti",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Ahmet Çelik", "puan": 5, "tarih": "2025-05-15", "yorum": "Celsus Kütüphanesi önünde durmak tüyler ürpertici. Harika korunmuş bir antik kent." },
+        { "kullanici": "Melis şen", "puan": 4, "tarih": "2025-04-12", "yorum": "Yamaç Evler kısmı ekstra ücretli ama kesinlikle görülmeli. Yazın çok sıcak, şapka alın." },
+        { "kullanici": "Tarık Aydın", "puan": 5, "tarih": "2025-03-22", "yorum": "Tarihi iliklerinize kadar hissediyorsunuz. Rehber eşliğinde gezmek çok daha iyi." }
+      ]
+    },
+    {
+      "id": 6,
+      "lokasyon_basligi": "Sümela Manastırı",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Gökhan Avcı", "puan": 5, "tarih": "2025-06-01", "yorum": "Dağın yamacına nasıl yapıldığına inanamayacaksınız. Manzara ve sis harika bir atmosfer sunuyor." },
+        { "kullanici": "Hülya Yıldız", "puan": 4, "tarih": "2025-05-18", "yorum": "Restorasyon sonrası freskler çok güzel görünüyor. Merdivenler biraz yorucu." },
+        { "kullanici": "Murat Kurt", "puan": 5, "tarih": "2025-04-05", "yorum": "Karadeniz'in doğasıyla birleşen muazzam bir tarih. Kuymak yemeden dönmeyin." }
+      ]
+    },
+    {
+      "id": 7,
+      "lokasyon_basligi": "Nemrut Dağı Milli Parkı",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Cem Doğan", "puan": 5, "tarih": "2025-05-28", "yorum": "Gün doğumunu izlemek için sabaha karşı tırmandık. Soğuktu ama o heykellerin ihtişamı her şeye değer." },
+        { "kullanici": "Buse Tekin", "puan": 5, "tarih": "2025-05-11", "yorum": "Tanrıların Tahtı unvanını sonuna kadar hak ediyor. Hayatımda izlediğim en güzel gün batımıydı." },
+        { "kullanici": "Eren şahin", "puan": 4, "tarih": "2025-04-19", "yorum": "Yol biraz virajlı ve tepeye yürüyüş kondisyon istiyor. Kalın giyinmeyi unutmayın." }
+      ]
+    },
+    {
+      "id": 8,
+      "lokasyon_basligi": "Kaputaş Plajı",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Serkan Öz", "puan": 5, "tarih": "2025-06-12", "yorum": "Merdivenlerden inerken göreceğiniz turkuaz renk gerçek dışı. Deniz biraz dalgalı ve derin ama harika." },
+        { "kullanici": "Gizem şahin", "puan": 4, "tarih": "2025-06-05", "yorum": "Otopark yeri bulmak tam bir çile, sabah erken saatlerde gelmek en mantıklısı." },
+        { "kullanici": "Kaan aslan", "puan": 5, "tarih": "2025-05-20", "yorum": "Kanyonun ağzındaki bu plaj Türkiye'nin en güzel denizine sahip olabilir. Suyu serinletici." }
+      ]
+    },
+    {
+      "id": 9,
+      "lokasyon_basligi": "Göbeklitepe Tapınak Alanı",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "Hakan koç", "puan": 5, "tarih": "2025-04-14", "yorum": "Tarihin sıfır noktası! 12 bin yıllık sütunları canlı görmek insanın vizyonunu değiştiriyor." },
+        { "kullanici": "Aslı Güneş", "puan": 5, "tarih": "2025-03-30", "yorum": "Büyüleyici bir atmosfer. Müze kompleksi ve animasyon filmi çok başarılı hazırlanmış." },
+        { "kullanici": "Cengiz Ünal", "puan": 4, "tarih": "2025-03-12", "yorum": "Kazı alanının üzeri kapatılmış, rahat geziliyor. İnsanlık tarihinin en büyük gizemi." }
+      ]
+    },
+    {
+      "id": 10,
+      "lokasyon_basligi": "Topkapı Sarayı Müzesi",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Fatih Yılmaz", "puan": 5, "tarih": "2025-05-10", "yorum": "Hazine dairesindeki Kaşıkçı Elması muazzamdı. Mukaddes Emanetler bölümü insanı manevi olarak etkiliyor." },
+        { "kullanici": "Ebru çetin", "puan": 4, "tarih": "2025-04-25", "yorum": "Saray çok büyük, hakkıyla gezmek tam bir gün alıyor. Harem bölümü bence en estetik yeri." },
+        { "kullanici": "Zafer korkmaz", "puan": 5, "tarih": "2025-04-01", "yorum": "Gülhane Parkı üzerinden geçip gittik. Osmanlı gücünü ve ihtişamını çok net görüyorsunuz." }
+      ]
+    },
+    {
+      "id": 11,
+      "lokasyon_basligi": "Ayasofya-i Kebir Cami-i Şerifi",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "Süleyman Ak", "puan": 5, "tarih": "2025-06-15", "yorum": "Kubbenin devasallığı karşısında büyülenmemek elde değil. İki farklı medeniyetin izleri bir arada." },
+        { "kullanici": "Merve Yalçın", "puan": 5, "tarih": "2025-05-22", "yorum": "Dünyanın en önemli mimari harikalarından biri. Akşam ışıklandırmasıyla Sultanahmet meydanından harika görünüyor." },
+        { "kullanici": "Kadir özkan", "puan": 4, "tarih": "2025-05-04", "yorum": "Çok sıra oluyor ama ne kadar beklerseniz bekleyin içeri girince değdiğini anlıyorsunuz." }
+      ]
+    },
+    {
+      "id": 12,
+      "lokasyon_basligi": "Troya Antik Kenti",
+      "ortalama_puan": 4.2,
+      "yorum_listesi": [
+        { "kullanici": "Oktay Demir", "puan": 4, "tarih": "2025-04-18", "yorum": "Efsanevi Truva atını görmek güzeldi. Kalıntılar katman katman, anlamak için kesinlikle rehber şart." },
+        { "kullanici": "Seda Erdem", "puan": 5, "tarih": "2025-03-29", "yorum": "Yeni açılan Troya Müzesi antik kentin kendisinden bile daha etkileyici olmuş. Ödülleri hak ediyor." },
+        { "kullanici": "Levent Kaya", "puan": 4, "tarih": "2025-02-14", "yorum": "Homeros'un destanını okuyup giderseniz aldığınız keyif on katına çıkıyor." }
+      ]
+    },
+    {
+      "id": 13,
+      "lokasyon_basligi": "Pergamon (Bergama) Antik Kenti",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Bülent Avcı", "puan": 5, "tarih": "2025-05-02", "yorum": "Dünyanın en dik antik tiyatrosunun en üst basamağına oturup ovayı seyretmek paha biçilemez." },
+        { "kullanici": "Derya şen", "puan": 4, "tarih": "2025-04-20", "yorum": "Akropole teleferikle çıkılıyor, manzara şahane. Keşke Zeus Sunağı da Berlin'de olmasaydı." },
+        { "kullanici": "Alperen Türk", "puan": 5, "tarih": "2025-03-15", "yorum": "Asklepion tıp merkezi kısmı da çok ilginçti. Antik çağın sağlık başkenti." }
+      ]
+    },
+    {
+      "id": 14,
+      "lokasyon_basligi": "Aphrodisias Antik Kenti",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Nihal Bulut", "puan": 5, "tarih": "2025-05-09", "yorum": "Stadyum o kadar devasa ve sağlam ki sanki yarın yarışlar başlayacakmış gibi duruyor." },
+        { "kullanici": "Gökhan Kaya", "puan": 5, "tarih": "2025-04-11", "yorum": "Müzedeki mermer heykellerin işçiliği inanılmaz ince. Ara Güler'in burayı keşfetme hikayesiyle gitmek ayrı bir keyif." },
+        { "kullanici": "Füsun Yaman", "puan": 4, "tarih": "2025-03-03", "yorum": "Efes kadar kalabalık değil, bu yüzden sessizce ve huzurla tarihin içinde yürüyebiliyorsunuz." }
+      ]
+    },
+    {
+      "id": 15,
+      "lokasyon_basligi": "Hattuşa Antik Kenti",
+      "ortalama_puan": 4.4,
+      "yorum_listesi": [
+        { "kullanici": "Metin Savaş", "puan": 5, "tarih": "2025-06-10", "yorum": "Hititlerin başkenti. Aslanlı Kapı ve yeraltı tüneli (Yerkapı) çok heyecan vericiydi." },
+        { "kullanici": "Ceren Aslan", "puan": 4, "tarih": "2025-05-14", "yorum": "Çok geniş bir araziye yayılmış, arabayla gezilebiliyor olması büyük avantaj. Yazılıkaya'yı kaçırmayın." },
+        { "kullanici": "Sinan Kara", "puan": 4, "tarih": "2025-04-22", "yorum": "Yeşil taşın gizemi hala çözülmemiş. Anadolu medeniyetlerini sevenler kesinlikle görmeli." }
+      ]
+    },
+    {
+      "id": 16,
+      "lokasyon_basligi": "Ani Arkeolojik Alanı",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Doğan güneş", "puan": 5, "tarih": "2025-02-18", "yorum": "Kışın karlar altındayken gittim. Ermenistan sınırındaki o yalnızlık ve katedralin heybeti büyüleyiciydi." },
+        { "kullanici": "Tülay Öztürk", "puan": 5, "tarih": "2025-05-25", "yorum": "İpek yolu üzerindeki bu eski büyük metropolün kalıntıları insanı hüzünlendiriyor. Surları çok görkemli." },
+        { "kullanici": "Emre Yiğit", "puan": 4, "tarih": "2025-06-03", "yorum": "Arpaçay barajı manzaralı cami ve kiliseler yan yana. Muazzam bir tarih birleşimi." }
+      ]
+    },
+    {
+      "id": 17,
+      "lokasyon_basligi": "İshak Paşa Sarayı",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Ferhat Kaya", "puan": 5, "tarih": "2025-05-19", "yorum": "Dağların tepesinde bir kartal yuvası gibi. Taş işçiliği Selçuklu ve Osmanlı sanatının zirvesi." },
+        { "kullanici": "Zeliha çelik", "puan": 4, "tarih": "2025-04-08", "yorum": "Sarayın içindeki merkezi ısıtma sistemi dönemine göre devrimsel. Doğubayazıt manzarası harika." },
+        { "kullanici": "Yusuf şen", "puan": 5, "tarih": "2025-05-01", "yorum": "Görkemli taç kapısı önünde fotoğraf çekilmek harika. Kesinlikle Türkiye'de görülmesi gereken ilk 10 yerden biri." }
+      ]
+    },
+    {
+      "id": 18,
+      "lokasyon_basligi": "Aspendos Antik Tiyatrosu",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Ramazan Ak", "puan": 5, "tarih": "2025-06-11", "yorum": "Dünyada sahne binası bu kadar sağlam kalan başka tiyatro yok sanırım. Akustiği inanılmaz." },
+        { "kullanici": "Pınar Yılmaz", "puan": 4, "tarih": "2025-05-20", "yorum": "Gündüz çok sıcak oluyor, akşam konser veya opera festivaline denk gelirseniz kaçırmayın." },
+        { "kullanici": "Boran çetin", "puan": 5, "tarih": "2025-04-14", "yorum": "Arkadaki tarihi su kemerlerini de mutlaka ziyaret edin. Mühendislik harikası." }
+      ]
+    },
+    {
+      "id": 19,
+      "lokasyon_basligi": "Myra Antik Kenti ve Noel Baba Kilisesi",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Nuriye Eren", "puan": 5, "tarih": "2025-05-04", "yorum": "Kaya mezarları adeta bir dantel gibi kayaya işlenmiş. Tiyatro da çok büyük ve temiz." },
+        { "kullanici": "Umut Demir", "puan": 4, "tarih": "2025-04-22", "yorum": "Noel Baba (St. Nicholas) kilisesindeki freskler ve lahit çok etkileyiciydi. İnanç turizmi için önemli bir yer." },
+        { "kullanici": "Cansu Yıldız", "puan": 4, "tarih": "2025-03-19", "yorum": "Demre merkezde yer alıyor ulaşımı kolay. Kaya mezarlarının önünde harika fotoğraflar çıkıyor." }
+      ]
+    },
+    {
+      "id": 20,
+      "lokasyon_basligi": "Xanthos - Letoon Antik Kentleri",
+      "ortalama_puan": 4.3,
+      "yorum_listesi": [
+        { "kullanici": "Ercan Kurt", "puan": 4, "tarih": "2025-04-15", "yorum": "Likya tarihinin en hüzünlü şehri. Dikme anıt mezarları çok özgün mimariye sahip." },
+        { "kullanici": "Aylin koç", "puan": 5, "tarih": "2025-03-27", "yorum": "Letoon'daki tapınaklar ve antik yazıtlar Likya dilinin çözülmesini sağlamış. Tarihçiler için cennet." },
+        { "kullanici": "Vedat Güler", "puan": 4, "tarih": "2025-02-10", "yorum": "İki kent birbirine yakın, aynı gün gezilebilir. UNESCO listesinde olmayı sonuna kadar hak ediyor." }
+      ]
+    },
+    {
+      "id": 21,
+      "lokasyon_basligi": "Sardes Antik Kenti",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Oğuzhan Ay", "puan": 5, "tarih": "2025-05-12", "yorum": "Lidya krallığının başkenti, paranın basıldığı yer. Sinagog yapısı ve mozaikleri büyüleyici." },
+        { "kullanici": "Müjgan şahin", "puan": 4, "tarih": "2025-04-03", "yorum": "Jimnazyum binasının devasa sütunlu cephesi restore edilmiş, harika görünüyor." },
+        { "kullanici": "Kenan Aslan", "puan": 5, "tarih": "2025-03-20", "yorum": "Artemis tapınağına doğru giden kral yolu yürüyüşü çok keyifliydi. Salihli'de odun köfte yemeyi unutmayın." }
+      ]
+    },
+    {
+      "id": 22,
+      "lokasyon_basligi": "Gordion Antik Kenti",
+      "ortalama_puan": 4.4,
+      "yorum_listesi": [
+        { "kullanici": "Belma Yıldırım", "puan": 4, "tarih": "2025-06-02", "yorum": "Midas Tümülüsü'nün içine giden tünelden geçmek heyecan vericiydi. Dünyanın en eski ahşap yapısı içeride." },
+        { "kullanici": "Tolgahan Can", "puan": 5, "tarih": "2025-05-17", "yorum": "Büyük İskender'in kördüğümü kestiği yer. Tarih ve mitoloji severlerin mutlaka rotasında olmalı." },
+        { "kullanici": "Sibel Tekin", "puan": 4, "tarih": "2025-04-11", "yorum": "Müzesi küçük ama içindeki takılar ve çanak çömlekler Frig sanatını çok güzel yansıtıyor." }
+      ]
+    },
+    {
+      "id": 23,
+      "lokasyon_basligi": "Dara Antik Kenti",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Mahmut aslan", "puan": 5, "tarih": "2025-05-24", "yorum": "Yeraltındaki dev su sarnıcı adeta saklı bir saray gibi. Mezopotamya'nın Efes'i dedikleri kadar var." },
+        { "kullanici": "Zeynep kaya", "puan": 5, "tarih": "2025-04-19", "yorum": "Kaya mezarlığı (Nekropol) alanı devasa. Galeri mezar odası insanı hayrete düşürüyor." },
+        { "kullanici": "İbrahim Halil", "puan": 4, "tarih": "2025-03-30", "yorum": "Giriş ücretsizdi, köy ile antik kent iç içe geçmiş. Çok otantik ve mistik bir yer." }
+      ]
+    },
+    {
+      "id": 24,
+      "lokasyon_basligi": "Sagalassos Antik Kenti",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "Gülse Erdem", "puan": 5, "tarih": "2025-06-14", "yorum": "1750 metre yükseklikte, dağların arasında bulutların üzerinde bir kent. Antoninler çeşmesinden hala su akıyor!" },
+        { "kullanici": "Barlas Öztürk", "puan": 5, "tarih": "2025-05-29", "yorum": "Tiyatrosu dağ manzarasına bakıyor, büyüleyici. Türkiye'deki en iyi korunmuş ve en estetik antik kentlerden biri." },
+        { "kullanici": "Mine Çelik", "puan": 4, "tarih": "2025-05-02", "yorum": "Yolu biraz virajlı ve yukarı tırmanıyor ama tepeye ulaştığınızda göreceğiniz manzara tüm yorgunluğu alıyor." }
+      ]
+    },
+    {
+      "id": 25,
+      "lokasyon_basligi": "Aizanoi Antik Kenti",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Mesut çetin", "puan": 5, "tarih": "2025-05-08", "yorum": "Zeus Tapınağı neredeyse tamamen ayakta ve altında muazzam bir tonozlu salon var. Dünyanın ilk borsası da burada." },
+        { "kullanici": "Filiz Aydın", "puan": 4, "tarih": "2025-04-17", "yorum": "Stadyum ve tiyatronun birleşik tasarımı dünyada tekmiş. Hak ettiği değeri göremeyen saklı bir cevher." },
+        { "kullanici": "Halil İbrahim", "puan": 5, "tarih": "2025-03-25", "yorum": "Kütahya seyahatimizde uğradık. Roma köprüleri üzerinden geçmek harika bir histi." }
+      ]
+    },
+    {
+      "id": 26,
+      "lokasyon_basligi": "Milet Antik Kenti",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Yavuz Yılmaz", "puan": 5, "tarih": "2025-05-14", "yorum": "Felsefenin başkenti Thales'in memleketi. Devasa antik tiyatrosu muhteşem kondisyonda, galerilerinde yürümek harika." },
+        { "kullanici": "Nermin Aksoy", "puan": 4, "tarih": "2025-04-26", "yorum": "Faustina Hamamı çok büyük ve iyi korunmuş. Kışın sular altında kalabiliyor ama baharda harika." },
+        { "kullanici": "Cemil Demir", "puan": 4, "tarih": "2025-03-11", "yorum": "Tarih ve felsefe meraklıları için çok önemli bir durak. Didim'e kadar gelmişken mutlaka uğrayın." }
+      ]
+    },
+    {
+      "id": 27,
+      "lokasyon_basligi": "Priene Antik Kenti",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Alper Kara", "puan": 5, "tarih": "2025-05-30", "yorum": "Çam ormanlarının içinde, dik bir yamaca kurulmuş harika planlı şehir. Athena Tapınağı sütunları manzara ile birleşince harika." },
+        { "kullanici": "Arzu Güneş", "puan": 5, "tarih": "2025-05-03", "yorum": "Antik tiyatrodaki ön sıra meclis koltukları sapasağlam duruyor. Doğayla tarihin en güzel birleşimi." },
+        { "kullanici": "Selim Öztürk", "puan": 4, "tarih": "2025-04-12", "yorum": "Yürüyüş yolları dik ve taşlık, spor ayakkabı şart. Kalabalıktan uzak huzurlu bir antik kent." }
+      ]
+    },
+    {
+      "id": 28,
+      "lokasyon_basligi": "Knidos Antik Kenti",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Banu çelik", "puan": 5, "tarih": "2025-06-18", "yorum": "Ege ile Akdeniz'in birleştiği o burunda gün batımını antik tiyatrodan izlemek ömre bedel." },
+        { "kullanici": "Mustafa Taş", "puan": 4, "tarih": "2025-06-01", "yorum": "Datça'dan yolu biraz uzun ve virajlı ama ulaştığınız koy ve antik liman manzarası muazzam." },
+        { "kullanici": "Ege Arslan", "puan": 5, "tarih": "2025-05-15", "yorum": "Denizcilik ve bilim kenti. Antik güneş saatini ve yuvarlak Afrodit tapınağının yerini gördük." }
+      ]
+    },
+    {
+      "id": 29,
+      "lokasyon_basligi": "Stratonikeia Antik Kenti",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Kadir Yiğit", "puan": 5, "tarih": "2025-05-22", "yorum": "Aynı sokakta hem Roma sütunları, hem Selçuklu hamamı hem de Osmanlı konakları var. Yaşayan bir zaman makinesi." },
+        { "kullanici": "Elifnaz şahin", "puan": 4, "tarih": "2025-04-30", "yorum": "Gladyatörlerin şehri olarak biliniyor. Köy kahvesinde çay içip tarihi kalıntıları izlemek çok keyifliydi." },
+        { "kullanici": "Orhan Kılıç", "puan": 5, "tarih": "2025-03-18", "yorum": "Muazzam büyüklükte bir gymnasium binası var. Restorasyon çalışmaları çok başarılı gidiyor." }
+      ]
+    },
+    {
+      "id": 30,
+      "lokasyon_basligi": "Phaselis Antik Kenti ve Koyu",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Deniz Saygın", "puan": 5, "tarih": "2025-06-25", "yorum": "Çam ağaçlarının gölgesinde antik su kemerlerinin dibinde yüzmek! Dünyada böyle bir lüks çok az yerde var." },
+        { "kullanici": "Meltem Akın", "puan": 4, "tarih": "2025-06-10", "yorum": "Üç farklı koyu var, güney koyu kumlu ve çocuklu aileler için harika. Hafta sonu çok sıra oluyor." },
+        { "kullanici": "Cihan Yıldız", "puan": 5, "tarih": "2025-05-28", "yorum": "Tarihi caddede yürüyüp ardından hemen denize girmek muazzam bir deneyim. Antalya'nın en iyi yeri." }
+      ]
+    },
+    {
+      "id": 31,
+      "lokasyon_basligi": "Kelebekler Vadisi",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Esin Yılmaz", "puan": 5, "tarih": "2025-06-20", "yorum": "Ölüdeniz'den tekneyle ulaştık. Dev kayalıkların arasında saklanmış muhteşem bir kumsal ve doğa." },
+        { "kullanici": "Görkem Kurt", "puan": 4, "tarih": "2025-06-02", "yorum": "Yukarıdaki seyir terasından manzara efsane ama uçurum kenarı tehlikeli. Vadinin içi çok huzurlu." },
+        { "kullanici": "Sibel Can", "puan": 5, "tarih": "2025-05-14", "yorum": "Kamp yapmak için harika bir yer. Akşam gökyüzündeki yıldızlar ve doğanın sesi muazzam." }
+      ]
+    },
+    {
+      "id": 32,
+      "lokasyon_basligi": "Saklıkent Kanyonu",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Levent şen", "puan": 5, "tarih": "2025-06-22", "yorum": "Buz gibi azgın sulardan geçerek kanyona giriyoruz. Adrenalin dolu ve çok eğlenceli bir yürüyüş." },
+        { "kullanici": "Tuçe Aydın", "puan": 4, "tarih": "2025-06-14", "yorum": "Kanyon ayakkabısı (lastik) kiralamanız şart, taşlar çok kaygan. Yaz sıcağında buz gibi su ilaç gibi geldi." },
+        { "kullanici": "Furkan Demir", "puan": 5, "tarih": "2025-05-29", "yorum": "Girişteki ringo raftingi mutlaka deneyin. Doğa harikası devasa bir kanyon." }
+      ]
+    },
+    {
+      "id": 33,
+      "lokasyon_basligi": "Salda Gölü",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Nesrin Ünal", "puan": 5, "tarih": "2025-06-19", "yorum": "Beyaz kumsalı ve turkuaz tonları ile gerçekten Maldivler gibi. Koruma önlemleri çok iyi olmuş." },
+        { "kullanici": "Anıl Kaya", "puan": 4, "tarih": "2025-06-05", "yorum": "Gölün ana plaj kısmına yürümek gerekiyor ama doğayı korumak için kesinlikle doğru karar. Manzara büyüleyici." },
+        { "kullanici": "Didem Kaplan", "puan": 4, "tarih": "2025-05-18", "yorum": "Fotoğraf çekmek için harika renkler sunuyor. Suyu çok temiz ve şifalı hissettiriyor." }
+      ]
+    },
+    {
+      "id": 34,
+      "lokasyon_basligi": "Uzungöl",
+      "ortalama_puan": 4.1,
+      "yorum_listesi": [
+        { "kullanici": "Yasin Avcı", "puan": 4, "tarih": "2025-06-08", "yorum": "Gölün etrafı çok kalabalık ve ticari olmuş ama yukarıdaki seyir terasından ladin ormanları ve sis harika." },
+        { "kullanici": "Zehra Bulut", "puan": 5, "tarih": "2025-05-24", "yorum": "Sabah erken saatlerde kimse yokken göl kenarında yürümek çok huzurluydu. Doğa harika." },
+        { "kullanici": "Berk çetin", "puan": 4, "tarih": "2025-05-11", "yorum": "Garester yaylasına doğru çıktık, asıl güzellik yukarıdaki yaylalarda saklı. Temiz hava muhteşem." }
+      ]
+    },
+    {
+      "id": 35,
+      "lokasyon_basligi": "Ayder Yaylası",
+      "ortalama_puan": 4.3,
+      "yorum_listesi": [
+        { "kullanici": "Emin Kara", "puan": 4, "tarih": "2025-06-12", "yorum": "Gelin Tülü şelalesi çok görkemli. Yayla havası ve tulum sesi insanı yeniliyor." },
+        { "kullanici": "Fatma Yıldız", "puan": 5, "tarih": "2025-05-29", "yorum": "Kaçkar dağlarının eteğinde yeşilin her tonu mevcut. Muhlama ve yerel bal efsane lezzetli." },
+        { "kullanici": "Kamil aslan", "puan": 4, "tarih": "2025-05-15", "yorum": "Çok popüler olduğu için yapılaşma artmış ama doğası hala büyüleyici gücünü koruyor." }
+      ]
+    },
+    {
+      "id": 36,
+      "lokasyon_basligi": "Van Gölü ve Akdamar Adası",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Bedriye Öztürk", "puan": 5, "tarih": "2025-05-02", "yorum": "Tekneyle adaya geçerken gölün maviliği büyüledi. Baharda badem çiçekleri açınca tam bir cennet." },
+        { "kullanici": "Harun Yılmaz", "puan": 5, "tarih": "2025-04-24", "yorum": "Kilisenin dışındaki taş kabartma işçilikleri birer sanat eseri. İnci kefali tandır yemeden dönmeyin." },
+        { "kullanici": "Asiye Demir", "puan": 4, "tarih": "2025-04-10", "yorum": "Van gölü değil deniz burası! Sodalı suyu çok berrak. Akdamar adası mutlaka görülmeli." }
+      ]
+    },
+    {
+      "id": 37,
+      "lokasyon_basligi": "Eğirdir Gölü",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Tamer Can", "puan": 5, "tarih": "2025-06-03", "yorum": "Yeşilada kısmında kaldık. Gölün rengi gün içinde sürekli değişiyor, çok sakin ve huzurlu bir şehir." },
+        { "kullanici": "Suna Erdem", "puan": 4, "tarih": "2025-05-18", "yorum": "Elma bahçelerinin arasından geçip gittik. Levrek buğulama harikaydı, göl kenarı yürüyüşü çok keyifli." },
+        { "kullanici": "Remzi çelik", "puan": 5, "tarih": "2025-04-29", "yorum": "Gürültüden uzak, kafa dinlemek için mükemmel bir doğa harikası. Isparta'nın incisi." }
+      ]
+    },
+    {
+      "id": 38,
+      "lokasyon_basligi": "Yedigöller Milli Parkı",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "Onur Saydam", "puan": 5, "tarih": "2025-11-04", "yorum": "Sonbaharda gittim, sarı, kırmızı ve turuncu yaprakların göle yansıması tam bir görsel şölen." },
+        { "kullanici": "Hilal Güneş", "puan": 5, "tarih": "2025-10-22", "yorum": "Fotoğrafçılar için cennet. Göllerin arasında yürümek, sessizlik ve temiz hava büyüleyici." },
+        { "kullanici": "Bülent Kurt", "puan": 4, "tarih": "2025-10-05", "yorum": "Yolu biraz virajlı ama milli parka ulaşınca unutuyorsunuz. Kamp kurmak için harika imkanlar var." }
+      ]
+    },
+    {
+      "id": 39,
+      "lokasyon_basligi": "Abant Gölü Tabiat Parkı",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Sefa Arslan", "puan": 5, "tarih": "2025-02-12", "yorum": "Kışın karlar altındayken etrafında yürümek harikaydı. Donmuş göl manzarası muhteşemdi." },
+        { "kullanici": "Gaye Öztürk", "puan": 4, "tarih": "2025-05-20", "yorum": "Gölün üzerindeki nilüfer çiçekleri çok güzel açmıştı. Hafta sonu İstanbul'dan kaçış için ideal." },
+        { "kullanici": "Yutkun Kaya", "puan": 5, "tarih": "2025-04-05", "yorum": "Doğası harika korunmuş, çam kokusu her yerde. Sucuk ekmek klasiğini yapmadan dönmeyin." }
+      ]
+    },
+    {
+      "id": 40,
+      "lokasyon_basligi": "Ihlara Vadisi",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Kemal Aksoy", "puan": 5, "tarih": "2025-05-16", "yorum": "Merdivenlerden vadi tabanına inince bambaşka bir dünya başlıyor. Melendiz çayı kenarında yürümek çok huzurlu." },
+        { "kullanici": "Cansel Demir", "puan": 5, "tarih": "2025-04-28", "yorum": "Kanyonun içine oyulmuş antik kiliselerin içindeki freskler harika korunmuş. Doğa ve tarih iç içe." },
+        { "kullanici": "Nihat Yıldız", "puan": 4, "tarih": "2025-03-22", "yorum": "Uzun bir yürüyüş rotası, hazırlıklı gelin. Belisırma köyünde suyun üzerindeki çardaklarda yemek harikaydı." }
+      ]
+    },
+    {
+      "id": 41,
+      "lokasyon_basligi": "Kızkalesi (Deniz Kalesi)",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Süreyya Can", "puan": 5, "tarih": "2025-06-21", "yorum": "Denizin ortasındaki kaleye motorla geçtik, çok otantik. Karşısındaki plajın kumu incecik ve denizi sığ." },
+        { "kullanici": "Tamer Kılıç", "puan": 4, "tarih": "2025-06-04", "yorum": "Akşam ışıklandırıldığında manzara şahane oluyor. Mersin'in en ikonik turistik yeri." },
+        { "kullanici": "Ayla Yılmaz", "puan": 4, "tarih": "2025-05-18", "yorum": "Kalenin içini gezdik, surlar iyi durumda. Deniz tatiliyle tarihi birleştirmek isteyenlere tavsiye ederim." }
+      ]
+    },
+    {
+      "id": 42,
+      "lokasyon_basligi": "Gökpınar Gölü",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Fikret aslan", "puan": 5, "tarih": "2025-06-11", "yorum": "Doğal akvaryum kelimesinin tam karşılığı. Suyun altı o kadar net ki derinliği tahmin edemiyorsunuz, turkuaz rengi muazzam." },
+        { "kullanici": "Nihal Güler", "puan": 5, "tarih": "2025-05-25", "yorum": "Sivas'ın bozkırında böyle bir vaha inanılmaz. Sandalla gölde tur attık, su buz gibi." },
+        { "kullanici": "Eren Taş", "puan": 4, "tarih": "2025-05-02", "yorum": "Çok temiz ve bakımlı bir çevre. Hafta sonu piknikçiler nedeniyle kalabalık olabiliyor, hafta içi gelin." }
+      ]
+    },
+    {
+      "id": 43,
+      "lokasyon_basligi": "Dalyan Kanalı ve İztuzu Plajı",
+      "ortalama_puan": 4.9,
+      "yorum_listesi": [
+        { "kullanici": "Oya çetin", "puan": 5, "tarih": "2025-06-24", "yorum": "Sazlıkların arasından tekneyle geçmek, kral mezarlarını izlemek harika. İztuzu plajı ise uçsuz bucaksız bir doğa harikası." },
+        { "kullanici": "Murat Aydın", "puan": 5, "tarih": "2025-06-11", "yorum": "Şansımıza iki tane Caretta Caretta gördük! Plajın bir tarafı tuzlu deniz bir tarafı tatlı su gölü. İnanılmaz bir coğrafya." },
+        { "kullanici": "Gizem Kaplan", "puan": 5, "tarih": "2025-05-19", "yorum": "Doğal yapısı tamamen korunmuş, şezlonglar bile sınırlı. Mavi yengeç tatmanızı öneririm." }
+      ]
+    },
+    {
+      "id": 44,
+      "lokasyon_basligi": "Karanlık Kanyon",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Gökhan Savaş", "puan": 5, "tarih": "2025-06-12", "yorum": "Fırat nehrinin iki yanındaki dev kayalıklar insanı ürpertiyor ve büyülüyor. Taş Yol'dan arabayla geçmek büyük macera." },
+        { "kullanici": "Selin Kaya", "puan": 4, "tarih": "2025-05-30", "yorum": "Kanyonda bot turu yaptık, rehberler çok ilgiliydi. Dünyanın en büyük kanyonlarından biri, mutlaka görülmeli." },
+        { "kullanici": "Uğur Erdem", "puan": 5, "tarih": "2025-05-04", "yorum": "Kemaliye (Eğin) mimarisiyle de harika bir yer. Karanlık kanyon adrenalin tutkunları için birebir." }
+      ]
+    },
+    {
+      "id": 45,
+      "lokasyon_basligi": "Borçka Karagöl Tabiat Parkı",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Cemile Öztürk", "puan": 5, "tarih": "2025-06-15", "yorum": "Yeşilin binbir tonunun göle yansıması kartpostal gibi. Sandalla gölün içinde kürek çekmek harika bir huzur." },
+        { "kullanici": "Tarkan Yılmaz", "puan": 4, "tarih": "2025-05-22", "yorum": "Yolu biraz virajlı ve toprak ama göle ulaştığınız an değdiğini anlıyorsunuz. Tamamen doğayla baş başasınız." },
+        { "kullanici": "Aslıhan şen", "puan": 5, "tarih": "2025-05-01", "yorum": "Artvin'in en güzel saklı cenneti. Kamp severler için muazzam bir sessizlik ve temiz hava sunuyor." }
+      ]
+    },
+    {
+      "id": 46,
+      "lokasyon_basligi": "Cennet - Cehennem Obrukları",
+      "ortalama_puan": 4.4,
+      "yorum_listesi": [
+        { "kullanici": "Yasin Demir", "puan": 4, "tarih": "2025-05-14", "yorum": "Cennet obruğunun dibine asansör yapılması harika olmuş, yaşlılar da inebiliyor. Aşağıdaki kilise ve mağara çok gizemli." },
+        { "kullanici": "Merve Kurt", "puan": 5, "tarih": "2025-04-29", "yorum": "Cehennem obruğuna yukarıdaki cam terastan bakmak heyecan verici. Doğanın gücünü görüyorsunuz." },
+        { "kullanici": "Kenan Arslan", "puan": 4, "tarih": "2025-03-12", "yorum": "Mitolojik hikayeleri dinleyerek gezmek çok keyifliydi. Mersin rotasında mutlaka durulmalı." }
+      ]
+    },
+    {
+      "id": 47,
+      "lokasyon_basligi": "Muradiye Şelalesi",
+      "ortalama_puan": 4.5,
+      "yorum_listesi": [
+        { "kullanici": "Nadir çelik", "puan": 5, "tarih": "2025-06-02", "yorum": "Gürül gürül akan harika bir şelale. Karşısındaki asma köprüden yürürken suyun serinliği yüzünüze vuruyor." },
+        { "kullanici": "Sibel Bulut", "puan": 4, "tarih": "2025-05-15", "yorum": "İlkbaharda suyun debisi çok yüksekti, harika fotoğraflar çektik. Çevresindeki peyzaj güzel yapılmış." },
+        { "kullanici": "Orhan Kılıç", "puan": 5, "tarih": "2025-04-18", "yorum": "Van seyahatimizde uğradık. Sakin, doğayla iç içe çay içebileceğiniz güzel yerler var." }
+      ]
+    },
+    {
+      "id": 48,
+      "lokasyon_basligi": "Gökçeada (İmroz)",
+      "ortalama_puan": 4.6,
+      "yorum_listesi": [
+        { "kullanici": "Ege Saygın", "puan": 5, "tarih": "2025-06-24", "yorum": "Zeytinli köyünde dibek kahvesi içmek ve taş sokaklarda yürümek harikaydı. Tam bir sakin şehir (Cittaslow)." },
+        { "kullanici": "Banu Akın", "puan": 4, "tarih": "2025-06-12", "yorum": "Aydıncık plajında rüzgar sörfü yaptık, rüzgarı çok ideal. Denizi biraz serin ama çok temiz." },
+        { "kullanici": "Mustafa Yıldız", "puan": 5, "tarih": "2025-05-28", "yorum": "Kaleköy'de gün batımını izlemek adanın en büyük klasiği. Bakir koyları sevenler için mükemmel ada." }
+      ]
+    },
+    {
+      "id": 49,
+      "lokasyon_basligi": "Bozcaada (Tenedos)",
+      "ortalama_puan": 4.8,
+      "yorum_listesi": [
+        { "kullanici": "Selin Erdem", "puan": 5, "tarih": "2025-06-26", "yorum": "Ayazma plajının suyu cam gibi akvaryum gibi ama buz gibi! Rum mahallesinin renkli sokakları büyüleyici." },
+        { "kullanici": "Caner Öztürk", "puan": 5, "tarih": "2025-06-14", "yorum": "Rüzgar güllerinin orada bağ şarabı eşliğinde gün batımını izlemek romantizmin zirvesi. Harika bir ada atmosferi." },
+        { "kullanici": "Meltem Kaya", "puan": 4, "tarih": "2025-06-02", "yorum": "Kalesi çok görkemli ve iyi korunmuş. Damla sakızlı kurabiyelerinden kutu kutu aldık, çok lezzetli." }
+      ]
+    },
+    {
+      "id": 50,
+      "lokasyon_basligi": "Kuzalan Şelalesi ve Mavi Göl",
+      "ortalama_puan": 4.7,
+      "yorum_listesi": [
+        { "kullanici": "Giresunlu Ahmet", "puan": 5, "tarih": "2025-06-20", "yorum": "Mavi gölün o turkuaz rengi gerçekten büyüleyici. Kireç taşlarının suya verdiği renk gerçek dışı görünüyor." },
+        { "kullanici": "Derya Yılmaz", "puan": 4, "tarih": "2025-06-08", "yorum": "Kuzalan şelalesi de hemen yol üstünde, yürüyüş yolları yapılmış. Doğu Karadeniz'in saklı kalmış bir incisi." },
+        { "kullanici": "Sinan çetin", "puan": 5, "tarih": "2025-05-25", "yorum": "Yaz aylarında rengi tam turkuaz oluyor, yağmurlu günlerde gitmeyin su bulanabiliyor. Doğa harikası." }
       ]
     }
   ]
