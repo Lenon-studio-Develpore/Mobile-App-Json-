@@ -1,3 +1,1 @@
-{
-  "yorumlar": []
-}
+{"lokasyonlar":[{"id":1,"baslik":"Yeni Lokasyon","koordinat":{"lat":0.0,"lng":0.0},"yorum_listesi":[{"kullanici_id":"1","puan":5.0,"sifreli_mesaj":"2oB8AUrdQsfMzbfK3dZkro6zTZS3zXMyHBMZ3TZ7FSZ5kEs=","tarih":1782909582683}]}]}
